@@ -1,0 +1,3375 @@
+{
+    "nodes": {
+        "sym:index.html:#cd-mins": {
+            "id": "sym:index.html:#cd-mins",
+            "project_id": "anti",
+            "file_path": "index.html",
+            "node_type": "component",
+            "name": "#cd-mins",
+            "signature": "<div id=\"cd-mins\">",
+            "line_range": {
+                "start": 1,
+                "end": 2
+            },
+            "token_cost": 8,
+            "content": null,
+            "content_hash": "",
+            "parent": null,
+            "base_relevance": 1.0,
+            "access_count": 0,
+            "last_accessed": "2026-09-01T11:41:44.441537622Z"
+        },
+        "sym:index.html:#candle-flame": {
+            "id": "sym:index.html:#candle-flame",
+            "project_id": "anti",
+            "file_path": "index.html",
+            "node_type": "component",
+            "name": "#candle-flame",
+            "signature": "<div id=\"candle-flame\">",
+            "line_range": {
+                "start": 1,
+                "end": 2
+            },
+            "token_cost": 8,
+            "content": null,
+            "content_hash": "",
+            "parent": null,
+            "base_relevance": 1.0,
+            "access_count": 0,
+            "last_accessed": "2026-09-01T11:41:44.441548876Z"
+        },
+        "sym:index.html:.top-nav": {
+            "id": "sym:index.html:.top-nav",
+            "project_id": "anti",
+            "file_path": "index.html",
+            "node_type": "style_token",
+            "name": ".top-nav",
+            "signature": ".top-nav {",
+            "line_range": {
+                "start": 1,
+                "end": 2
+            },
+            "token_cost": 8,
+            "content": null,
+            "content_hash": "",
+            "parent": null,
+            "base_relevance": 1.0,
+            "access_count": 0,
+            "last_accessed": "2026-09-01T11:41:44.441625427Z"
+        },
+        "sym:index.html:.orb-2": {
+            "id": "sym:index.html:.orb-2",
+            "project_id": "anti",
+            "file_path": "index.html",
+            "node_type": "style_token",
+            "name": ".orb-2",
+            "signature": ".orb-2 {",
+            "line_range": {
+                "start": 1,
+                "end": 2
+            },
+            "token_cost": 8,
+            "content": null,
+            "content_hash": "",
+            "parent": null,
+            "base_relevance": 1.0,
+            "access_count": 0,
+            "last_accessed": "2026-09-01T11:41:44.441602921Z"
+        },
+        "sym:index.html:.hero-title": {
+            "id": "sym:index.html:.hero-title",
+            "project_id": "anti",
+            "file_path": "index.html",
+            "node_type": "style_token",
+            "name": ".hero-title",
+            "signature": ".hero-title {",
+            "line_range": {
+                "start": 1,
+                "end": 2
+            },
+            "token_cost": 8,
+            "content": null,
+            "content_hash": "",
+            "parent": null,
+            "base_relevance": 1.0,
+            "access_count": 0,
+            "last_accessed": "2026-09-01T11:41:44.441644478Z"
+        },
+        "sym:index.html:scrollToElement": {
+            "id": "sym:index.html:scrollToElement",
+            "project_id": "anti",
+            "file_path": "index.html",
+            "node_type": "function",
+            "name": "scrollToElement",
+            "signature": "function scrollToElement()",
+            "line_range": {
+                "start": 1,
+                "end": 2
+            },
+            "token_cost": 8,
+            "content": null,
+            "content_hash": "",
+            "parent": null,
+            "base_relevance": 1.0,
+            "access_count": 0,
+            "last_accessed": "2026-09-01T11:41:44.441584164Z"
+        },
+        "sym:index.html:updateBirthdayCountdown": {
+            "id": "sym:index.html:updateBirthdayCountdown",
+            "project_id": "anti",
+            "file_path": "index.html",
+            "node_type": "function",
+            "name": "updateBirthdayCountdown",
+            "signature": "function updateBirthdayCountdown()",
+            "line_range": {
+                "start": 1,
+                "end": 2
+            },
+            "token_cost": 8,
+            "content": null,
+            "content_hash": "",
+            "parent": null,
+            "base_relevance": 1.0,
+            "access_count": 0,
+            "last_accessed": "2026-09-01T11:41:44.441567626Z"
+        },
+        "sym:index.html:initStars": {
+            "id": "sym:index.html:initStars",
+            "project_id": "anti",
+            "file_path": "index.html",
+            "node_type": "function",
+            "name": "initStars",
+            "signature": "function initStars()",
+            "line_range": {
+                "start": 1,
+                "end": 2
+            },
+            "token_cost": 8,
+            "content": null,
+            "content_hash": "",
+            "parent": null,
+            "base_relevance": 1.0,
+            "access_count": 0,
+            "last_accessed": "2026-09-01T11:41:44.441590768Z"
+        },
+        "file:index.html": {
+            "id": "file:index.html",
+            "project_id": "anti",
+            "file_path": "index.html",
+            "node_type": "file",
+            "name": "index.html",
+            "signature": null,
+            "line_range": null,
+            "token_cost": 9349,
+            "content": "<!DOCTYPE html>\n<html lang=\"fa\" dir=\"rtl\">\n<head>\n    <meta charset=\"UTF-8\">\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n    <title>تولدت مبارک سُها جانم | Happy Birthday Soha ❤️</title>\n    \n    <!-- SEO & Meta Tags -->\n    <meta name=\"description\" content=\"یک صفحه اختصاصی و عاشقانه برای جشن تولد سُها جان - ۱۱ شهریور ۱۳۷۴\">\n    <meta name=\"theme-color\" content=\"#0d0d1a\">\n    \n    <!-- Google Fonts -->\n    <link rel=\"preconnect\" href=\"https://fonts.googleapis.com\">\n    <link rel=\"preconnect\" href=\"https://fonts.gstatic.com\" crossorigin>\n    <link href=\"https://fonts.googleapis.com/css2?family=Great+Vibes&family=Playfair+Display:ital,wght@0,400..900;1,400..900&family=Plus+Jakarta+Sans:wght@300;400;600;700&family=Vazirmatn:wght@300;400;500;700;900&display=swap\" rel=\"stylesheet\">\n    \n    <!-- FontAwesome Icons -->\n    <link rel=\"stylesheet\" href=\"https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css\">\n    \n    <!-- Canvas Confetti Library -->\n    <script src=\"https://cdn.jsdelivr.net/npm/canvas-confetti@1.6.0/dist/confetti.browser.min.js\"></script>\n\n    <style>\n        :root {\n            --bg-dark: #090a15;\n            --bg-card: rgba(22, 24, 45, 0.65);\n            --border-glow: rgba(255, 182, 193, 0.25);\n            --primary-rose: #ff6b8b;\n            --primary-gold: #ffd166;\n            --accent-purple: #9d4edd;\n            --text-light: #f8f9fa;\n            --text-muted: #b8c1ec;\n            --font-fa: 'Vazirmatn', sans-serif;\n            --font-en-title: 'Playfair Display', serif;\n            --font-cursive: 'Great Vibes', cursive;\n        }\n\n        * {\n            box-sizing: border-box;\n            margin: 0;\n            padding: 0;\n        }\n\n        body {\n            background-color: var(--bg-dark);\n            color: var(--text-light);\n            font-family: var(--font-fa);\n            min-height: 100vh;\n            overflow-x: hidden;\n            position: relative;\n            line-height: 1.7;\n        }\n\n        /* Starry Interactive Canvas Background */\n        #bg-canvas {\n            position: fixed;\n            top: 0;\n            left: 0;\n            width: 100vw;\n            height: 100vh;\n            z-index: 0;\n            pointer-events: none;\n        }\n\n        /* Glow background Orbs */\n        .orb {\n            position: fixed;\n            border-radius: 50%;\n            filter: blur(90px);\n            opacity: 0.35;\n            z-index: 0;\n            pointer-events: none;\n            animation: floatOrb 12s ease-in-out infinite alternate;\n        }\n        .orb-1 {\n            width: 400px;\n            height: 400px;\n            background: radial-gradient(circle, #ff477e, transparent);\n            top: -100px;\n            right: -100px;\n        }\n        .orb-2 {\n            width: 500px;\n            height: 500px;\n            background: radial-gradient(circle, #7209b7, transparent);\n            bottom: -150px;\n            left: -150px;\n            animation-delay: -6s;\n        }\n        .orb-3 {\n            width: 300px;\n            height: 300px;\n            background: radial-gradient(circle, #ffb703, transparent);\n            top: 40%;\n            left: 30%;\n            animation-delay: -3s;\n            opacity: 0.2;\n        }\n\n        @keyframes floatOrb {\n            0% { transform: translate(0, 0) scale(1); }\n            100% { transform: translate(40px, 50px) scale(1.15); }\n        }\n\n        /* Main Container */\n        .app-container {\n            position: relative;\n            z-index: 1;\n            max-width: 1100px;\n            margin: 0 auto;\n            padding: 2rem 1.5rem 5rem 1.5rem;\n        }\n\n        /* Glass Card Utility */\n        .glass-card {\n            background: var(--bg-card);\n            backdrop-filter: blur(16px);\n            -webkit-backdrop-filter: blur(16px);\n            border: 1px solid var(--border-glow);\n            border-radius: 24px;\n            box-shadow: 0 20px 50px rgba(0, 0, 0, 0.4),\n                        inset 0 1px 1px rgba(255, 255, 255, 0.15);\n            transition: transform 0.4s cubic-bezier(0.175, 0.885, 0.32, 1.275), box-shadow 0.4s ease;\n        }\n\n        .glass-card:hover {\n            transform: translateY(-5px);\n            box-shadow: 0 25px 60px rgba(255, 107, 139, 0.15),\n                        inset 0 1px 2px rgba(255, 255, 255, 0.25);\n        }\n\n        /* Header / Navbar */\n        .top-nav {\n            display: flex;\n            justify-content: space-between;\n            align-items: center;\n            padding: 1rem 1.5rem;\n            margin-bottom: 2.5rem;\n        }\n\n        .brand-logo {\n            font-family: var(--font-cursive);\n            font-size: 2.2rem;\n            background: linear-gradient(135deg, var(--primary-rose), var(--primary-gold));\n            -webkit-background-clip: text;\n            -webkit-text-fill-color: transparent;\n            display: flex;\n            align-items: center;\n            gap: 0.5rem;\n        }\n\n        .music-btn {\n            background: rgba(255, 255, 255, 0.08);\n            border: 1px solid var(--border-glow);\n            color: var(--text-light);\n            padding: 0.6rem 1.2rem;\n            border-radius: 50px;\n            cursor: pointer;\n            display: flex;\n            align-items: center;\n            gap: 0.6rem;\n            font-family: var(--font-fa);\n            font-size: 0.9rem;\n            transition: all 0.3s ease;\n        }\n        .music-btn:hover {\n            background: var(--primary-rose);\n            color: #fff;\n            box-shadow: 0 0 20px rgba(255, 107, 139, 0.5);\n        }\n        .music-btn.playing {\n            animation: pulseGlow 2s infinite alternate;\n        }\n        @keyframes pulseGlow {\n            0% { box-shadow: 0 0 10px rgba(255, 107, 139, 0.3); }\n            100% { box-shadow: 0 0 25px rgba(255, 209, 102, 0.8); }\n        }\n\n        /* Hero Section */\n        .hero {\n            display: grid;\n            grid-template-columns: 1fr 1fr;\n            gap: 2.5rem;\n            align-items: center;\n            margin-bottom: 3.5rem;\n        }\n\n        @media (max-width: 868px) {\n            .hero {\n                grid-template-columns: 1fr;\n                text-align: center;\n            }\n        }\n\n        .hero-badge {\n            display: inline-flex;\n            align-items: center;\n            gap: 0.5rem;\n            background: rgba(255, 107, 139, 0.15);\n            border: 1px solid rgba(255, 107, 139, 0.3);\n            color: var(--primary-rose);\n            padding: 0.4rem 1rem;\n            border-radius: 30px;\n            font-size: 0.9rem;\n            margin-bottom: 1.2rem;\n            font-weight: 500;\n        }\n\n        .hero-title {\n            font-size: clamp(2.4rem, 5vw, 3.8rem);\n            font-weight: 900;\n            line-height: 1.2;\n            margin-bottom: 1rem;\n            background: linear-gradient(135deg, #ffffff 30%, var(--primary-rose) 70%, var(--primary-gold) 100%);\n            -webkit-background-clip: text;\n            -webkit-text-fill-color: transparent;\n        }\n\n        .hero-subtitle {\n            font-size: 1.25rem;\n            color: var(--text-muted);\n            margin-bottom: 2rem;\n            font-weight: 300;\n        }\n\n        .hero-details-pill {\n            display: flex;\n            flex-wrap: wrap;\n            gap: 1rem;\n            margin-bottom: 2rem;\n        }\n        @media (max-width: 868px) {\n            .hero-details-pill {\n                justify-content: center;\n            }\n        }\n\n        .pill-item {\n            background: rgba(255, 255, 255, 0.05);\n            border: 1px solid rgba(255, 255, 255, 0.1);\n            padding: 0.7rem 1.2rem;\n            border-radius: 16px;\n            display: flex;\n            align-items: center;\n            gap: 0.6rem;\n            font-size: 0.95rem;\n        }\n        .pill-item i {\n            color: var(--primary-gold);\n        }\n\n        .hero-actions {\n            display: flex;\n            gap: 1rem;\n            flex-wrap: wrap;\n        }\n        @media (max-width: 868px) {\n            .hero-actions {\n                justify-content: center;\n            }\n        }\n\n        .btn-primary {\n            background: linear-gradient(135deg, var(--primary-rose), #e63946);\n            color: white;\n            border: none;\n            padding: 0.9rem 2rem;\n            border-radius: 50px;\n            font-size: 1.05rem;\n            font-weight: 700;\n            font-family: var(--font-fa);\n            cursor: pointer;\n            box-shadow: 0 10px 30px rgba(255, 107, 139, 0.4);\n            transition: all 0.3s ease;\n            display: inline-flex;\n            align-items: center;\n            gap: 0.6rem;\n        }\n        .btn-primary:hover {\n            transform: translateY(-3px) scale(1.03);\n            box-shadow: 0 15px 35px rgba(255, 107, 139, 0.6);\n        }\n\n        .btn-secondary {\n            background: rgba(255, 255, 255, 0.08);\n            border: 1px solid var(--border-glow);\n            color: var(--text-light);\n            padding: 0.9rem 1.8rem;\n            border-radius: 50px;\n            font-size: 1rem;\n            font-family: var(--font-fa);\n            cursor: pointer;\n            transition: all 0.3s ease;\n            display: inline-flex;\n            align-items: center;\n            gap: 0.5rem;\n        }\n        .btn-secondary:hover {\n            background: rgba(255, 255, 255, 0.15);\n            border-color: rgba(255, 255, 255, 0.3);\n        }\n\n        /* Hero Card Image Container */\n        .hero-img-box {\n            position: relative;\n            border-radius: 28px;\n            overflow: hidden;\n            border: 2px solid rgba(255, 255, 255, 0.15);\n            box-shadow: 0 20px 40px rgba(0,0,0,0.6);\n        }\n        .hero-img-box img {\n            width: 100%;\n            height: auto;\n            display: block;\n            object-fit: cover;\n            transition: transform 0.6s ease;\n        }\n        .hero-img-box:hover img {\n            transform: scale(1.05);\n        }\n        .hero-img-overlay {\n            position: absolute;\n            bottom: 0;\n            left: 0;\n            right: 0;\n            background: linear-gradient(to top, rgba(9, 10, 21, 0.95), transparent);\n            padding: 1.5rem;\n            text-align: center;\n        }\n        .hero-img-overlay p {\n            font-family: var(--font-cursive);\n            font-size: 1.8rem;\n            color: var(--primary-gold);\n        }\n\n        /* Section Titles */\n        .section-header {\n            text-align: center;\n            margin-bottom: 2.5rem;\n        }\n        .section-subtitle {\n            color: var(--primary-rose);\n            font-size: 0.95rem;\n            letter-spacing: 1px;\n            text-transform: uppercase;\n            margin-bottom: 0.4rem;\n        }\n        .section-title {\n            font-size: 2rem;\n            font-weight: 700;\n        }\n\n        /* Age Ticker & Countdown Grid */\n        .grid-2 {\n            display: grid;\n            grid-template-columns: 1fr 1fr;\n            gap: 2rem;\n            margin-bottom: 3.5rem;\n        }\n        @media (max-width: 768px) {\n            .grid-2 {\n                grid-template-columns: 1fr;\n            }\n        }\n\n        .counter-card {\n            padding: 2rem;\n            text-align: center;\n        }\n\n        .counter-title {\n            font-size: 1.1rem;\n            color: var(--text-muted);\n            margin-bottom: 1.5rem;\n            display: flex;\n            align-items: center;\n            justify-content: center;\n            gap: 0.5rem;\n        }\n\n        .counter-timer {\n            display: grid;\n            grid-template-columns: repeat(4, 1fr);\n            gap: 0.8rem;\n        }\n\n        .timer-box {\n            background: rgba(0, 0, 0, 0.3);\n            border: 1px solid rgba(255, 255, 255, 0.08);\n            border-radius: 16px;\n            padding: 1rem 0.5rem;\n        }\n        .timer-val {\n            font-size: 1.8rem;\n            font-weight: 900;\n            color: var(--primary-gold);\n            font-family: var(--font-en-title);\n            line-height: 1;\n            margin-bottom: 0.3rem;\n        }\n        .timer-lbl {\n            font-size: 0.75rem;\n            color: var(--text-muted);\n        }\n\n        /* Interactive Cake Section */\n        .cake-section {\n            padding: 3rem 2rem;\n            text-align: center;\n            margin-bottom: 3.5rem;\n            position: relative;\n            overflow: hidden;\n        }\n\n        .cake-wrapper {\n            position: relative;\n            width: 200px;\n            height: 200px;\n            margin: 2rem auto 2rem auto;\n            cursor: pointer;\n        }\n\n        /* Custom Interactive CSS Cake */\n        .cake {\n            position: absolute;\n            bottom: 10px;\n            left: 50%;\n            transform: translateX(-50%);\n            width: 160px;\n            height: 110px;\n        }\n        .plate {\n            width: 200px;\n            height: 14px;\n            background: #e2e8f0;\n            border-radius: 10px;\n            position: absolute;\n            bottom: 0;\n            left: -20px;\n            box-shadow: 0 4px 15px rgba(0,0,0,0.5);\n        }\n        .layer-bottom {\n            width: 160px;\n            height: 45px;\n            background: linear-gradient(to right, #ff758c, #ff7eb3);\n            border-radius: 12px 12px 0 0;\n            position: absolute;\n            bottom: 14px;\n        }\n        .layer-middle {\n            width: 140px;\n            height: 40px;\n            background: linear-gradient(to right, #ffffff, #fff0f3);\n            border-radius: 12px 12px 0 0;\n            position: absolute;\n            bottom: 54px;\n            left: 10px;\n        }\n        .layer-top {\n            width: 120px;\n            height: 35px;\n            background: linear-gradient(to right, #ffd166, #ffeea9);\n            border-radius: 12px 12px 0 0;\n            position: absolute;\n            bottom: 90px;\n            left: 20px;\n        }\n        .icing {\n            position: absolute;\n            top: 0;\n            left: 0;\n            width: 100%;\n            height: 12px;\n            background: #fff;\n            border-radius: 10px 10px 5px 5px;\n        }\n\n        .candle {\n            width: 12px;\n            height: 38px;\n            background: repeating-linear-gradient(45deg, #ff477e, #ff477e 5px, #fff 5px, #fff 10px);\n            position: absolute;\n            bottom: 122px;\n            left: 74px;\n            border-radius: 4px;\n            z-index: 2;\n        }\n\n        .flame {\n            width: 16px;\n            height: 24px;\n            background: radial-gradient(ellipse at bottom, #ffbe0b 0%, #ff006e 70%, transparent 100%);\n            border-radius: 50% 50% 35% 35%;\n            position: absolute;\n            top: -24px;\n            left: -2px;\n            box-shadow: 0 0 20px #ffbe0b, 0 0 40px #ff006e;\n            animation: flicker 0.6s infinite alternate;\n            transition: opacity 0.4s ease, transform 0.4s ease;\n        }\n\n        .flame.blown-out {\n            opacity: 0;\n            transform: scale(0.1);\n            animation: none;\n        }\n\n        @keyframes flicker {\n            0% { transform: scale(1) rotate(-2deg); }\n            100% { transform: scale(1.15) rotate(2deg); }\n        }\n\n        .wish-msg {\n            margin-top: 1rem;\n            font-size: 1.1rem;\n            color: var(--primary-gold);\n            min-height: 28px;\n        }\n\n        /* Romantic Persian Poetry Section */\n        .poetry-section {\n            margin-bottom: 3.5rem;\n        }\n\n        .poem-card {\n            padding: 3rem 2rem;\n            text-align: center;\n            position: relative;\n            background: linear-gradient(135deg, rgba(30, 20, 50, 0.7), rgba(15, 18, 38, 0.8));\n        }\n\n        .poem-quote-icon {\n            font-size: 2.5rem;\n            color: rgba(255, 209, 102, 0.3);\n            margin-bottom: 1rem;\n        }\n\n        .poem-verses {\n            font-size: 1.4rem;\n            font-weight: 500;\n            line-height: 2.2;\n            color: #fff;\n            margin-bottom: 1.5rem;\n        }\n\n        .poem-author {\n            color: var(--primary-rose);\n            font-size: 1rem;\n            font-weight: 300;\n        }\n\n        /* Love Notes / Cards Grid */\n        .notes-grid {\n            display: grid;\n            grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));\n            gap: 1.5rem;\n            margin-bottom: 3.5rem;\n        }\n\n        .note-card {\n            padding: 1.8rem;\n            border-radius: 20px;\n        }\n\n        .note-icon {\n            width: 50px;\n            height: 50px;\n            background: rgba(255, 107, 139, 0.15);\n            border-radius: 14px;\n            display: flex;\n            align-items: center;\n            justify-content: center;\n            font-size: 1.4rem;\n            color: var(--primary-rose);\n            margin-bottom: 1.2rem;\n        }\n\n        .note-title {\n            font-size: 1.2rem;\n            font-weight: 700;\n            margin-bottom: 0.6rem;\n            color: var(--primary-gold);\n        }\n\n        .note-body {\n            font-size: 0.95rem;\n            color: var(--text-muted);\n            line-height: 1.7;\n        }\n\n        /* Surprise Wish Box */\n        .surprise-box {\n            padding: 2.5rem;\n            text-align: center;\n            margin-bottom: 3rem;\n            background: linear-gradient(135deg, rgba(255, 107, 139, 0.1), rgba(157, 78, 221, 0.1));\n            border: 1px dashed var(--primary-rose);\n        }\n\n        #surprise-text {\n            font-size: 1.2rem;\n            color: #fff;\n            margin-top: 1.2rem;\n            display: none;\n            animation: fadeIn 0.5s ease;\n        }\n\n        @keyframes fadeIn {\n            from { opacity: 0; transform: translateY(10px); }\n            to { opacity: 1; transform: translateY(0); }\n        }\n\n        /* Footer */\n        footer {\n            text-align: center;\n            color: var(--text-muted);\n            font-size: 0.9rem;\n            padding-top: 2rem;\n            border-top: 1px solid rgba(255, 255, 255, 0.08);\n        }\n        footer span {\n            color: var(--primary-rose);\n        }\n    </style>\n</head>\n<body>\n\n    <!-- Background Canvas for Animated Stars & Hearts -->\n    <canvas id=\"bg-canvas\"></canvas>\n\n    <!-- Ambient Glowing Orbs -->\n    <div class=\"orb orb-1\"></div>\n    <div class=\"orb orb-2\"></div>\n    <div class=\"orb orb-3\"></div>\n\n    <div class=\"app-container\">\n\n        <!-- Top Navigation -->\n        <header class=\"top-nav\">\n            <div class=\"brand-logo\">\n                <i class=\"fa-solid fa-heart\"></i> Soha &amp; Love\n            </div>\n            <button class=\"music-btn\" id=\"music-toggle\" onclick=\"toggleAudio()\">\n                <i class=\"fa-solid fa-music\" id=\"music-icon\"></i>\n                <span id=\"music-text\">پخش آهنگ تولد</span>\n            </button>\n        </header>\n\n        <!-- Hero Section -->\n        <section class=\"hero\">\n            <div class=\"hero-content\">\n                <div class=\"hero-badge\">\n                    <i class=\"fa-solid fa-sparkles\"></i> جشن میلاد ستاره زندگی من\n                </div>\n                <h1 class=\"hero-title\">سُها جانم، تولدت مبارک! ❤️</h1>\n                <p class=\"hero-subtitle\">\n                    در زیباترین روز از ماه شهریور، ستاره‌ای متولد شد که تمام جهان من را روشن کرد.\n                </p>\n\n                <div class=\"hero-details-pill\">\n                    <div class=\"pill-item\">\n                        <i class=\"fa-solid fa-calendar-star\"></i>\n                        <span>تاریخ شمسی: <strong>۱۱ شهریور ۱۳۷۴</strong></span>\n                    </div>\n                    <div class=\"pill-item\">\n                        <i class=\"fa-solid fa-calendar-day\"></i>\n                        <span>میلادی: <strong>September 2, 1995</strong></span>\n                    </div>\n                    <div class=\"pill-item\">\n                        <i class=\"fa-solid fa-sun\"></i>\n                        <span>نماد ماه: <strong>فرشته شهریور (سنبله ♍)</strong></span>\n                    </div>\n                </div>\n\n                <div class=\"hero-actions\">\n                    <button class=\"btn-primary\" onclick=\"triggerConfetti()\">\n                        <i class=\"fa-solid fa-gift\"></i> جشن و افشان کادو!\n                    </button>\n                    <button class=\"btn-secondary\" onclick=\"scrollToElement('cake-section')\">\n                        <i class=\"fa-solid fa-cake-candles\"></i> شمع تولد\n                    </button>\n                </div>\n            </div>\n\n            <!-- Hero Image Frame -->\n            <div class=\"hero-img-box glass-card\">\n                <img src=\"assets/soha_birthday_card.jpg\" alt=\"Soha Birthday Celebration Card\" id=\"hero-img\">\n                <div class=\"hero-img-overlay\">\n                    <p>To My Dearest Soha ✨</p>\n                </div>\n            </div>\n        </section>\n\n        <!-- Age Ticker & Birthday Countdown Section -->\n        <section class=\"grid-2\">\n            <!-- Age Ticker Card -->\n            <div class=\"glass-card counter-card\">\n                <div class=\"counter-title\">\n                    <i class=\"fa-solid fa-clock-rotate-left\" style=\"color: var(--primary-rose)\"></i>\n                    <span>زمان دقیق حضور سبزت در این دنیا</span>\n                </div>\n                <div class=\"counter-timer\" id=\"age-counter\">\n                    <div class=\"timer-box\">\n                        <div class=\"timer-val\" id=\"age-years\">30</div>\n                        <div class=\"timer-lbl\">سال</div>\n                    </div>\n                    <div class=\"timer-box\">\n                        <div class=\"timer-val\" id=\"age-days\">0</div>\n                        <div class=\"timer-lbl\">روز</div>\n                    </div>\n                    <div class=\"timer-box\">\n                        <div class=\"timer-val\" id=\"age-hours\">0</div>\n                        <div class=\"timer-lbl\">ساعت</div>\n                    </div>\n                    <div class=\"timer-box\">\n                        <div class=\"timer-val\" id=\"age-secs\">0</div>\n                        <div class=\"timer-lbl\">ثانیه</div>\n                    </div>\n                </div>\n            </div>\n\n            <!-- Birthday Countdown Card -->\n            <div class=\"glass-card counter-card\">\n                <div class=\"counter-title\">\n                    <i class=\"fa-solid fa-hourglass-half\" style=\"color: var(--primary-gold)\"></i>\n                    <span>شمارش معکوس تا تولد بعدی (۱۱ شهریور)</span>\n                </div>\n                <div class=\"counter-timer\" id=\"countdown-counter\">\n                    <div class=\"timer-box\">\n                        <div class=\"timer-val\" id=\"cd-days\">0</div>\n                        <div class=\"timer-lbl\">روز</div>\n                    </div>\n                    <div class=\"timer-box\">\n                        <div class=\"timer-val\" id=\"cd-hours\">0</div>\n                        <div class=\"timer-lbl\">ساعت</div>\n                    </div>\n                    <div class=\"timer-box\">\n                        <div class=\"timer-val\" id=\"cd-mins\">0</div>\n                        <div class=\"timer-lbl\">دقیقه</div>\n                    </div>\n                    <div class=\"timer-box\">\n                        <div class=\"timer-val\" id=\"cd-secs\">0</div>\n                        <div class=\"timer-lbl\">ثانیه</div>\n                    </div>\n                </div>\n            </div>\n        </section>\n\n        <!-- Cake & Candle Section -->\n        <section class=\"glass-card cake-section\" id=\"cake-section\">\n            <div class=\"section-header\">\n                <div class=\"section-subtitle\">Make a wish & Blow out the candle</div>\n                <h2 class=\"section-title\">آرزو کن و شمع رو فوت کن سُها جان 🎂</h2>\n            </div>\n\n            <div class=\"cake-wrapper\" onclick=\"blowCandle()\">\n                <div class=\"candle\">\n                    <div class=\"flame\" id=\"candle-flame\"></div>\n                </div>\n                <div class=\"cake\">\n                    <div class=\"plate\"></div>\n                    <div class=\"layer-bottom\"></div>\n                    <div class=\"layer-middle\"></div>\n                    <div class=\"layer-top\">\n                        <div class=\"icing\"></div>\n                    </div>\n                </div>\n            </div>\n\n            <button class=\"btn-primary\" onclick=\"blowCandle()\" style=\"margin-top: 1rem;\">\n                <i class=\"fa-solid fa-wind\"></i> <span id=\"candle-btn-text\">فوت کردن شمع!</span>\n            </button>\n\n            <p class=\"wish-msg\" id=\"wish-msg\"></p>\n        </section>\n\n        <!-- Romantic Poetry Section -->\n        <section class=\"poetry-section\">\n            <div class=\"glass-card poem-card\">\n                <i class=\"fa-solid fa-quote-right poem-quote-icon\"></i>\n                <div class=\"poem-verses\">\n                    «سُها یعنی ستاره‌ای کوچک، اما در آسمان دل من، روشن‌ترین کهکشانی...»<br>\n                    در ۱۱ شهریور ۱۳۷۴، خدا زیباترین هدیه‌اش را به جهان بخشید.<br>\n                    تولدت مبارک، ای تمام دارایی قلبم! ✨❤️\n                </div>\n                <div class=\"poem-author\">یک دنیا عشق برای سُهای عزیزم</div>\n            </div>\n        </section>\n\n        <!-- Features & Love Notes Cards -->\n        <div class=\"section-header\">\n            <div class=\"section-subtitle\">Why You Are Special</div>\n            <h2 class=\"section-title\">چرا سُها، ارزشمندترین ستاره زندگی من است؟ 🌟</h2>\n        </div>\n\n        <section class=\"notes-grid\">\n            <div class=\"glass-card note-card\">\n                <div class=\"note-icon\"><i class=\"fa-solid fa-star\"></i></div>\n                <h3 class=\"note-title\">معنای سُها</h3>\n                <p class=\"note-body\">\n                    نام زیبای تو، نام ستاره‌ای رازآلود در دب اکبر است. مانند نامت، همواره هدایت‌گر و روشنی‌بخش شب‌های من بوده‌ای.\n                </p>\n            </div>\n\n            <div class=\"glass-card note-card\">\n                <div class=\"note-icon\"><i class=\"fa-solid fa-feather-pointed\"></i></div>\n                <h3 class=\"note-title\">اصالت و متانت شهریوری</h3>\n                <p class=\"note-body\">\n                    زاده‌ی ۱۱ شهریور؛ سرشار از مهربانی، درایت، لبخندهای دلنشین و آغوشی به گرمی آخرین روزهای تابستان.\n                </p>\n            </div>\n\n            <div class=\"glass-card note-card\">\n                <div class=\"note-icon\"><i class=\"fa-solid fa-infinity\"></i></div>\n                <h3 class=\"note-title\">عشق بی‌انتها</h3>\n                <p class=\"note-body\">\n                    هر روز و هر سالی که می‌گذرد، بودن در کنار تو برکتی است که خدا نصیب زندگی من کرده است.\n                </p>\n            </div>\n        </section>\n\n        <!-- Surprise Secret Wish Generator -->\n        <section class=\"glass-card surprise-box\">\n            <h3 style=\"font-size: 1.4rem; color: var(--primary-gold);\">پیام سورپرایز ویژه برای سُها ✨</h3>\n            <p style=\"color: var(--text-muted); margin-top: 0.5rem;\">برای دیدن آرزوی قلبی روی دکمه زیر کلیک کن!</p>\n            <button class=\"btn-primary\" style=\"margin-top: 1.2rem;\" onclick=\"revealSurprise()\">\n                <i class=\"fa-solid fa-wand-magic-sparkles\"></i> باز کردن کارت آرزو\n            </button>\n            <div id=\"surprise-text\">\n                ❤️ \"سُها جانم، آرزو می‌کنم سال جدید زندگیت پر از خنده‌های از ته دل، سلامتی، آرامش و موفقیت‌های بزرگ باشه. تا همیشه کنارتم!\" ❤️\n            </div>\n        </section>\n\n        <!-- Footer -->\n        <footer>\n            <p>طراحی شده با نهایت عشق برای <span>سُها جان</span> | ۱۱ شهریور ۱۳۷۴ ❤️</p>\n        </footer>\n\n    </div>\n\n    <!-- Audio Element for Romantic Melody -->\n    <audio id=\"birthday-audio\" loop>\n        <source src=\"https://cdn.pixabay.com/download/audio/2022/05/27/audio_1808fbf07a.mp3?filename=happy-birthday-to-you-piano-version-113356.mp3\" type=\"audio/mpeg\">\n    </audio>\n\n    <script>\n        // --- Birthdate Info ---\n        // Gregorian equivalent of 1374-06-11 Shamsi is 1995-09-02\n        const birthDate = new Date(1995, 8, 2, 0, 0, 0); // Month is 0-indexed (8 = September)\n\n        // --- Live Age Calculator ---\n        function updateAgeCounter() {\n            const now = new Date();\n            const diffMs = now - birthDate;\n\n            const totalSeconds = Math.floor(diffMs / 1000);\n            const totalMinutes = Math.floor(totalSeconds / 60);\n            const totalHours = Math.floor(totalMinutes / 60);\n            const totalDays = Math.floor(totalHours / 24);\n\n            const years = Math.floor(totalDays / 365.25);\n            const remainingDays = Math.floor(totalDays % 365.25);\n            const hours = totalHours % 24;\n            const seconds = totalSeconds % 60;\n\n            document.getElementById('age-years').innerText = years;\n            document.getElementById('age-days').innerText = remainingDays;\n            document.getElementById('age-hours').innerText = hours;\n            document.getElementById('age-secs').innerText = seconds;\n        }\n\n        // --- Next Birthday Countdown ---\n        function updateBirthdayCountdown() {\n            const now = new Date();\n            let currentYear = now.getFullYear();\n\n            // Next 2nd of September (11 Shahrivar)\n            let nextBday = new Date(currentYear, 8, 2, 0, 0, 0);\n\n            if (now > nextBday) {\n                nextBday = new Date(currentYear + 1, 8, 2, 0, 0, 0);\n            }\n\n            const diff = nextBday - now;\n\n            const days = Math.floor(diff / (1000 * 60 * 60 * 24));\n            const hours = Math.floor((diff / (1000 * 60 * 60)) % 24);\n            const minutes = Math.floor((diff / 1000 / 60) % 60);\n            const seconds = Math.floor((diff / 1000) % 60);\n\n            document.getElementById('cd-days').innerText = days;\n            document.getElementById('cd-hours').innerText = hours;\n            document.getElementById('cd-mins').innerText = minutes;\n            document.getElementById('cd-secs').innerText = seconds;\n        }\n\n        setInterval(() => {\n            updateAgeCounter();\n            updateBirthdayCountdown();\n        }, 1000);\n        updateAgeCounter();\n        updateBirthdayCountdown();\n\n        // --- Confetti FX ---\n        function triggerConfetti() {\n            if (typeof confetti === 'function') {\n                confetti({\n                    particleCount: 120,\n                    spread: 80,\n                    origin: { y: 0.6 }\n                });\n                \n                setTimeout(() => {\n                    confetti({\n                        particleCount: 80,\n                        angle: 60,\n                        spread: 55,\n                        origin: { x: 0 }\n                    });\n                    confetti({\n                        particleCount: 80,\n                        angle: 120,\n                        spread: 55,\n                        origin: { x: 1 }\n                    });\n                }, 300);\n            }\n        }\n\n        // Initial launch confetti\n        window.addEventListener('load', () => {\n            setTimeout(triggerConfetti, 800);\n        });\n\n        // --- Interactive Candle blowing ---\n        let candleLit = true;\n        function blowCandle() {\n            const flame = document.getElementById('candle-flame');\n            const msg = document.getElementById('wish-msg');\n            const btnText = document.getElementById('candle-btn-text');\n\n            if (candleLit) {\n                flame.classList.add('blown-out');\n                candleLit = false;\n                msg.innerText = \"✨ آرزوت برآورده بشه سُها جانم! تولدت مبارک ✨\";\n                btnText.innerText = \"روشن کردن دوباره شمع\";\n                triggerConfetti();\n            } else {\n                flame.classList.remove('blown-out');\n                candleLit = true;\n                msg.innerText = \"\";\n                btnText.innerText = \"فوت کردن شمع!\";\n            }\n        }\n\n        // --- Surprise Text Reveal ---\n        function revealSurprise() {\n            const surpriseText = document.getElementById('surprise-text');\n            if (surpriseText.style.display === 'block') {\n                surpriseText.style.display = 'none';\n            } else {\n                surpriseText.style.display = 'block';\n                triggerConfetti();\n            }\n        }\n\n        // --- Smooth Scroll Utility ---\n        function scrollToElement(id) {\n            document.getElementById(id).scrollIntoView({ behavior: 'smooth' });\n        }\n\n        // --- Audio Control ---\n        let isPlaying = false;\n        function toggleAudio() {\n            const audio = document.getElementById('birthday-audio');\n            const btn = document.getElementById('music-toggle');\n            const icon = document.getElementById('music-icon');\n            const text = document.getElementById('music-text');\n\n            if (isPlaying) {\n                audio.pause();\n                isPlaying = false;\n                btn.classList.remove('playing');\n                icon.className = 'fa-solid fa-music';\n                text.innerText = 'پخش آهنگ تولد';\n            } else {\n                audio.play().then(() => {\n                    isPlaying = true;\n                    btn.classList.add('playing');\n                    icon.className = 'fa-solid fa-pause';\n                    text.innerText = 'توقف آهنگ';\n                    triggerConfetti();\n                }).catch(() => {\n                    alert('لطفا برای پخش اهنگ یک‌بار روی صفحه کلیک کنید.');\n                });\n            }\n        }\n\n        // --- Starry Canvas Background Effect ---\n        const canvas = document.getElementById('bg-canvas');\n        const ctx = canvas.getContext('2d');\n\n        let width = canvas.width = window.innerWidth;\n        let height = canvas.height = window.innerHeight;\n\n        window.addEventListener('resize', () => {\n            width = canvas.width = window.innerWidth;\n            height = canvas.height = window.innerHeight;\n            initStars();\n        });\n\n        class Star {\n            constructor() {\n                this.reset();\n            }\n\n            reset() {\n                this.x = Math.random() * width;\n                this.y = Math.random() * height;\n                this.size = Math.random() * 2 + 0.5;\n                this.alpha = Math.random() * 0.8 + 0.2;\n                this.speed = Math.random() * 0.02 + 0.005;\n                this.dir = Math.random() > 0.5 ? 1 : -1;\n            }\n\n            update() {\n                this.alpha += this.speed * this.dir;\n                if (this.alpha >= 1 || this.alpha <= 0.2) {\n                    this.dir *= -1;\n                }\n            }\n\n            draw() {\n                ctx.save();\n                ctx.globalAlpha = this.alpha;\n                ctx.fillStyle = '#ffffff';\n                ctx.beginPath();\n                ctx.arc(this.x, this.y, this.size, 0, Math.PI * 2);\n                ctx.fill();\n                ctx.restore();\n            }\n        }\n\n        const stars = [];\n        function initStars() {\n            stars.length = 0;\n            const count = Math.floor((width * height) / 3000);\n            for (let i = 0; i < count; i++) {\n                stars.push(new Star());\n            }\n        }\n\n        function animateStars() {\n            ctx.clearRect(0, 0, width, height);\n            stars.forEach(star => {\n                star.update();\n                star.draw();\n            });\n            requestAnimationFrame(animateStars);\n        }\n\n        initStars();\n        animateStars();\n    </script>\n</body>\n</html>\n",
+            "content_hash": "cdfd5b0a23913651f7028c875acef3d0bc174ca4a788c36b85e16864cc5b52f8",
+            "parent": null,
+            "base_relevance": 1.0,
+            "access_count": 0,
+            "last_accessed": "2026-09-01T11:41:44.441321355Z"
+        },
+        "sym:index.html:.counter-card": {
+            "id": "sym:index.html:.counter-card",
+            "project_id": "anti",
+            "file_path": "index.html",
+            "node_type": "style_token",
+            "name": ".counter-card",
+            "signature": ".counter-card {",
+            "line_range": {
+                "start": 1,
+                "end": 2
+            },
+            "token_cost": 8,
+            "content": null,
+            "content_hash": "",
+            "parent": null,
+            "base_relevance": 1.0,
+            "access_count": 0,
+            "last_accessed": "2026-09-01T11:41:44.441692102Z"
+        },
+        "sym:index.html:.note-card": {
+            "id": "sym:index.html:.note-card",
+            "project_id": "anti",
+            "file_path": "index.html",
+            "node_type": "style_token",
+            "name": ".note-card",
+            "signature": ".note-card {",
+            "line_range": {
+                "start": 1,
+                "end": 2
+            },
+            "token_cost": 8,
+            "content": null,
+            "content_hash": "",
+            "parent": null,
+            "base_relevance": 1.0,
+            "access_count": 0,
+            "last_accessed": "2026-09-01T11:41:44.441773398Z"
+        },
+        "sym:index.html:#cd-hours": {
+            "id": "sym:index.html:#cd-hours",
+            "project_id": "anti",
+            "file_path": "index.html",
+            "node_type": "component",
+            "name": "#cd-hours",
+            "signature": "<div id=\"cd-hours\">",
+            "line_range": {
+                "start": 1,
+                "end": 2
+            },
+            "token_cost": 8,
+            "content": null,
+            "content_hash": "",
+            "parent": null,
+            "base_relevance": 1.0,
+            "access_count": 0,
+            "last_accessed": "2026-09-01T11:41:44.441533693Z"
+        },
+        "sym:index.html:#music-toggle": {
+            "id": "sym:index.html:#music-toggle",
+            "project_id": "anti",
+            "file_path": "index.html",
+            "node_type": "component",
+            "name": "#music-toggle",
+            "signature": "<div id=\"music-toggle\">",
+            "line_range": {
+                "start": 1,
+                "end": 2
+            },
+            "token_cost": 8,
+            "content": null,
+            "content_hash": "",
+            "parent": null,
+            "base_relevance": 1.0,
+            "access_count": 0,
+            "last_accessed": "2026-09-01T11:41:44.441483647Z"
+        },
+        "sym:index.html:.orb": {
+            "id": "sym:index.html:.orb",
+            "project_id": "anti",
+            "file_path": "index.html",
+            "node_type": "style_token",
+            "name": ".orb",
+            "signature": ".orb {",
+            "line_range": {
+                "start": 1,
+                "end": 2
+            },
+            "token_cost": 8,
+            "content": null,
+            "content_hash": "",
+            "parent": null,
+            "base_relevance": 1.0,
+            "access_count": 0,
+            "last_accessed": "2026-09-01T11:41:44.441596857Z"
+        },
+        "sym:index.html:.poem-quote-icon": {
+            "id": "sym:index.html:.poem-quote-icon",
+            "project_id": "anti",
+            "file_path": "index.html",
+            "node_type": "style_token",
+            "name": ".poem-quote-icon",
+            "signature": ".poem-quote-icon {",
+            "line_range": {
+                "start": 1,
+                "end": 2
+            },
+            "token_cost": 8,
+            "content": null,
+            "content_hash": "",
+            "parent": null,
+            "base_relevance": 1.0,
+            "access_count": 0,
+            "last_accessed": "2026-09-01T11:41:44.441763979Z"
+        },
+        "sym:index.html:.notes-grid": {
+            "id": "sym:index.html:.notes-grid",
+            "project_id": "anti",
+            "file_path": "index.html",
+            "node_type": "style_token",
+            "name": ".notes-grid",
+            "signature": ".notes-grid {",
+            "line_range": {
+                "start": 1,
+                "end": 2
+            },
+            "token_cost": 8,
+            "content": null,
+            "content_hash": "",
+            "parent": null,
+            "base_relevance": 1.0,
+            "access_count": 0,
+            "last_accessed": "2026-09-01T11:41:44.441771136Z"
+        },
+        "sym:index.html:.note-icon": {
+            "id": "sym:index.html:.note-icon",
+            "project_id": "anti",
+            "file_path": "index.html",
+            "node_type": "style_token",
+            "name": ".note-icon",
+            "signature": ".note-icon {",
+            "line_range": {
+                "start": 1,
+                "end": 2
+            },
+            "token_cost": 8,
+            "content": null,
+            "content_hash": "",
+            "parent": null,
+            "base_relevance": 1.0,
+            "access_count": 0,
+            "last_accessed": "2026-09-01T11:41:44.441775469Z"
+        },
+        "sym:index.html:#cake-section": {
+            "id": "sym:index.html:#cake-section",
+            "project_id": "anti",
+            "file_path": "index.html",
+            "node_type": "component",
+            "name": "#cake-section",
+            "signature": "<div id=\"cake-section\">",
+            "line_range": {
+                "start": 1,
+                "end": 2
+            },
+            "token_cost": 8,
+            "content": null,
+            "content_hash": "",
+            "parent": null,
+            "base_relevance": 1.0,
+            "access_count": 0,
+            "last_accessed": "2026-09-01T11:41:44.441544068Z"
+        },
+        "sym:index.html:#age-years": {
+            "id": "sym:index.html:#age-years",
+            "project_id": "anti",
+            "file_path": "index.html",
+            "node_type": "component",
+            "name": "#age-years",
+            "signature": "<div id=\"age-years\">",
+            "line_range": {
+                "start": 1,
+                "end": 2
+            },
+            "token_cost": 8,
+            "content": null,
+            "content_hash": "",
+            "parent": null,
+            "base_relevance": 1.0,
+            "access_count": 0,
+            "last_accessed": "2026-09-01T11:41:44.441499982Z"
+        },
+        "sym:index.html:.plate": {
+            "id": "sym:index.html:.plate",
+            "project_id": "anti",
+            "file_path": "index.html",
+            "node_type": "style_token",
+            "name": ".plate",
+            "signature": ".plate {",
+            "line_range": {
+                "start": 1,
+                "end": 2
+            },
+            "token_cost": 8,
+            "content": null,
+            "content_hash": "",
+            "parent": null,
+            "base_relevance": 1.0,
+            "access_count": 0,
+            "last_accessed": "2026-09-01T11:41:44.441723386Z"
+        },
+        "sym:index.html:#age-hours": {
+            "id": "sym:index.html:#age-hours",
+            "project_id": "anti",
+            "file_path": "index.html",
+            "node_type": "component",
+            "name": "#age-hours",
+            "signature": "<div id=\"age-hours\">",
+            "line_range": {
+                "start": 1,
+                "end": 2
+            },
+            "token_cost": 8,
+            "content": null,
+            "content_hash": "",
+            "parent": null,
+            "base_relevance": 1.0,
+            "access_count": 0,
+            "last_accessed": "2026-09-01T11:41:44.441512459Z"
+        },
+        "sym:index.html:.timer-val": {
+            "id": "sym:index.html:.timer-val",
+            "project_id": "anti",
+            "file_path": "index.html",
+            "node_type": "style_token",
+            "name": ".timer-val",
+            "signature": ".timer-val {",
+            "line_range": {
+                "start": 1,
+                "end": 2
+            },
+            "token_cost": 8,
+            "content": null,
+            "content_hash": "",
+            "parent": null,
+            "base_relevance": 1.0,
+            "access_count": 0,
+            "last_accessed": "2026-09-01T11:41:44.441702291Z"
+        },
+        "sym:index.html:.icing": {
+            "id": "sym:index.html:.icing",
+            "project_id": "anti",
+            "file_path": "index.html",
+            "node_type": "style_token",
+            "name": ".icing",
+            "signature": ".icing {",
+            "line_range": {
+                "start": 1,
+                "end": 2
+            },
+            "token_cost": 8,
+            "content": null,
+            "content_hash": "",
+            "parent": null,
+            "base_relevance": 1.0,
+            "access_count": 0,
+            "last_accessed": "2026-09-01T11:41:44.441747497Z"
+        },
+        "sym:index.html:.cake-section": {
+            "id": "sym:index.html:.cake-section",
+            "project_id": "anti",
+            "file_path": "index.html",
+            "node_type": "style_token",
+            "name": ".cake-section",
+            "signature": ".cake-section {",
+            "line_range": {
+                "start": 1,
+                "end": 2
+            },
+            "token_cost": 8,
+            "content": null,
+            "content_hash": "",
+            "parent": null,
+            "base_relevance": 1.0,
+            "access_count": 0,
+            "last_accessed": "2026-09-01T11:41:44.441706932Z"
+        },
+        "sym:index.html:.section-subtitle": {
+            "id": "sym:index.html:.section-subtitle",
+            "project_id": "anti",
+            "file_path": "index.html",
+            "node_type": "style_token",
+            "name": ".section-subtitle",
+            "signature": ".section-subtitle {",
+            "line_range": {
+                "start": 1,
+                "end": 2
+            },
+            "token_cost": 8,
+            "content": null,
+            "content_hash": "",
+            "parent": null,
+            "base_relevance": 1.0,
+            "access_count": 0,
+            "last_accessed": "2026-09-01T11:41:44.441681451Z"
+        },
+        "sym:index.html:.timer-box": {
+            "id": "sym:index.html:.timer-box",
+            "project_id": "anti",
+            "file_path": "index.html",
+            "node_type": "style_token",
+            "name": ".timer-box",
+            "signature": ".timer-box {",
+            "line_range": {
+                "start": 1,
+                "end": 2
+            },
+            "token_cost": 8,
+            "content": null,
+            "content_hash": "",
+            "parent": null,
+            "base_relevance": 1.0,
+            "access_count": 0,
+            "last_accessed": "2026-09-01T11:41:44.441699769Z"
+        },
+        "sym:index.html:#age-counter": {
+            "id": "sym:index.html:#age-counter",
+            "project_id": "anti",
+            "file_path": "index.html",
+            "node_type": "component",
+            "name": "#age-counter",
+            "signature": "<div id=\"age-counter\">",
+            "line_range": {
+                "start": 1,
+                "end": 2
+            },
+            "token_cost": 8,
+            "content": null,
+            "content_hash": "",
+            "parent": null,
+            "base_relevance": 1.0,
+            "access_count": 0,
+            "last_accessed": "2026-09-01T11:41:44.441495396Z"
+        },
+        "sym:index.html:toggleAudio": {
+            "id": "sym:index.html:toggleAudio",
+            "project_id": "anti",
+            "file_path": "index.html",
+            "node_type": "function",
+            "name": "toggleAudio",
+            "signature": "function toggleAudio()",
+            "line_range": {
+                "start": 1,
+                "end": 2
+            },
+            "token_cost": 8,
+            "content": null,
+            "content_hash": "",
+            "parent": null,
+            "base_relevance": 1.0,
+            "access_count": 0,
+            "last_accessed": "2026-09-01T11:41:44.441587671Z"
+        },
+        "sym:index.html:.cake": {
+            "id": "sym:index.html:.cake",
+            "project_id": "anti",
+            "file_path": "index.html",
+            "node_type": "style_token",
+            "name": ".cake",
+            "signature": ".cake {",
+            "line_range": {
+                "start": 1,
+                "end": 2
+            },
+            "token_cost": 8,
+            "content": null,
+            "content_hash": "",
+            "parent": null,
+            "base_relevance": 1.0,
+            "access_count": 0,
+            "last_accessed": "2026-09-01T11:41:44.441711671Z"
+        },
+        "sym:index.html:.pill-item": {
+            "id": "sym:index.html:.pill-item",
+            "project_id": "anti",
+            "file_path": "index.html",
+            "node_type": "style_token",
+            "name": ".pill-item",
+            "signature": ".pill-item {",
+            "line_range": {
+                "start": 1,
+                "end": 2
+            },
+            "token_cost": 8,
+            "content": null,
+            "content_hash": "",
+            "parent": null,
+            "base_relevance": 1.0,
+            "access_count": 0,
+            "last_accessed": "2026-09-01T11:41:44.441655931Z"
+        },
+        "sym:index.html:.brand-logo": {
+            "id": "sym:index.html:.brand-logo",
+            "project_id": "anti",
+            "file_path": "index.html",
+            "node_type": "style_token",
+            "name": ".brand-logo",
+            "signature": ".brand-logo {",
+            "line_range": {
+                "start": 1,
+                "end": 2
+            },
+            "token_cost": 8,
+            "content": null,
+            "content_hash": "",
+            "parent": null,
+            "base_relevance": 1.0,
+            "access_count": 0,
+            "last_accessed": "2026-09-01T11:41:44.441629521Z"
+        },
+        "sym:index.html:.section-header": {
+            "id": "sym:index.html:.section-header",
+            "project_id": "anti",
+            "file_path": "index.html",
+            "node_type": "style_token",
+            "name": ".section-header",
+            "signature": ".section-header {",
+            "line_range": {
+                "start": 1,
+                "end": 2
+            },
+            "token_cost": 8,
+            "content": null,
+            "content_hash": "",
+            "parent": null,
+            "base_relevance": 1.0,
+            "access_count": 0,
+            "last_accessed": "2026-09-01T11:41:44.441678681Z"
+        },
+        "sym:index.html:.layer-bottom": {
+            "id": "sym:index.html:.layer-bottom",
+            "project_id": "anti",
+            "file_path": "index.html",
+            "node_type": "style_token",
+            "name": ".layer-bottom",
+            "signature": ".layer-bottom {",
+            "line_range": {
+                "start": 1,
+                "end": 2
+            },
+            "token_cost": 8,
+            "content": null,
+            "content_hash": "",
+            "parent": null,
+            "base_relevance": 1.0,
+            "access_count": 0,
+            "last_accessed": "2026-09-01T11:41:44.441737832Z"
+        },
+        "sym:index.html:.hero": {
+            "id": "sym:index.html:.hero",
+            "project_id": "anti",
+            "file_path": "index.html",
+            "node_type": "style_token",
+            "name": ".hero",
+            "signature": ".hero {",
+            "line_range": {
+                "start": 1,
+                "end": 2
+            },
+            "token_cost": 8,
+            "content": null,
+            "content_hash": "",
+            "parent": null,
+            "base_relevance": 1.0,
+            "access_count": 0,
+            "last_accessed": "2026-09-01T11:41:44.441638574Z"
+        },
+        "sym:index.html:.hero-details-pill": {
+            "id": "sym:index.html:.hero-details-pill",
+            "project_id": "anti",
+            "file_path": "index.html",
+            "node_type": "style_token",
+            "name": ".hero-details-pill",
+            "signature": ".hero-details-pill {",
+            "line_range": {
+                "start": 1,
+                "end": 2
+            },
+            "token_cost": 8,
+            "content": null,
+            "content_hash": "",
+            "parent": null,
+            "base_relevance": 1.0,
+            "access_count": 0,
+            "last_accessed": "2026-09-01T11:41:44.441652798Z"
+        },
+        "sym:index.html:.timer-lbl": {
+            "id": "sym:index.html:.timer-lbl",
+            "project_id": "anti",
+            "file_path": "index.html",
+            "node_type": "style_token",
+            "name": ".timer-lbl",
+            "signature": ".timer-lbl {",
+            "line_range": {
+                "start": 1,
+                "end": 2
+            },
+            "token_cost": 8,
+            "content": null,
+            "content_hash": "",
+            "parent": null,
+            "base_relevance": 1.0,
+            "access_count": 0,
+            "last_accessed": "2026-09-01T11:41:44.441704719Z"
+        },
+        "sym:index.html:.poem-author": {
+            "id": "sym:index.html:.poem-author",
+            "project_id": "anti",
+            "file_path": "index.html",
+            "node_type": "style_token",
+            "name": ".poem-author",
+            "signature": ".poem-author {",
+            "line_range": {
+                "start": 1,
+                "end": 2
+            },
+            "token_cost": 8,
+            "content": null,
+            "content_hash": "",
+            "parent": null,
+            "base_relevance": 1.0,
+            "access_count": 0,
+            "last_accessed": "2026-09-01T11:41:44.441768933Z"
+        },
+        "sym:index.html:.counter-title": {
+            "id": "sym:index.html:.counter-title",
+            "project_id": "anti",
+            "file_path": "index.html",
+            "node_type": "style_token",
+            "name": ".counter-title",
+            "signature": ".counter-title {",
+            "line_range": {
+                "start": 1,
+                "end": 2
+            },
+            "token_cost": 8,
+            "content": null,
+            "content_hash": "",
+            "parent": null,
+            "base_relevance": 1.0,
+            "access_count": 0,
+            "last_accessed": "2026-09-01T11:41:44.441694959Z"
+        },
+        "sym:index.html:updateAgeCounter": {
+            "id": "sym:index.html:updateAgeCounter",
+            "project_id": "anti",
+            "file_path": "index.html",
+            "node_type": "function",
+            "name": "updateAgeCounter",
+            "signature": "function updateAgeCounter()",
+            "line_range": {
+                "start": 1,
+                "end": 2
+            },
+            "token_cost": 8,
+            "content": null,
+            "content_hash": "",
+            "parent": null,
+            "base_relevance": 1.0,
+            "access_count": 0,
+            "last_accessed": "2026-09-01T11:41:44.441559083Z"
+        },
+        "sym:index.html:.poetry-section": {
+            "id": "sym:index.html:.poetry-section",
+            "project_id": "anti",
+            "file_path": "index.html",
+            "node_type": "style_token",
+            "name": ".poetry-section",
+            "signature": ".poetry-section {",
+            "line_range": {
+                "start": 1,
+                "end": 2
+            },
+            "token_cost": 8,
+            "content": null,
+            "content_hash": "",
+            "parent": null,
+            "base_relevance": 1.0,
+            "access_count": 0,
+            "last_accessed": "2026-09-01T11:41:44.441758313Z"
+        },
+        "sym:index.html:.app-container": {
+            "id": "sym:index.html:.app-container",
+            "project_id": "anti",
+            "file_path": "index.html",
+            "node_type": "style_token",
+            "name": ".app-container",
+            "signature": ".app-container {",
+            "line_range": {
+                "start": 1,
+                "end": 2
+            },
+            "token_cost": 8,
+            "content": null,
+            "content_hash": "",
+            "parent": null,
+            "base_relevance": 1.0,
+            "access_count": 0,
+            "last_accessed": "2026-09-01T11:41:44.441608154Z"
+        },
+        "sym:index.html:revealSurprise": {
+            "id": "sym:index.html:revealSurprise",
+            "project_id": "anti",
+            "file_path": "index.html",
+            "node_type": "function",
+            "name": "revealSurprise",
+            "signature": "function revealSurprise()",
+            "line_range": {
+                "start": 1,
+                "end": 2
+            },
+            "token_cost": 8,
+            "content": null,
+            "content_hash": "",
+            "parent": null,
+            "base_relevance": 1.0,
+            "access_count": 0,
+            "last_accessed": "2026-09-01T11:41:44.441578950Z"
+        },
+        "sym:index.html:.hero-subtitle": {
+            "id": "sym:index.html:.hero-subtitle",
+            "project_id": "anti",
+            "file_path": "index.html",
+            "node_type": "style_token",
+            "name": ".hero-subtitle",
+            "signature": ".hero-subtitle {",
+            "line_range": {
+                "start": 1,
+                "end": 2
+            },
+            "token_cost": 8,
+            "content": null,
+            "content_hash": "",
+            "parent": null,
+            "base_relevance": 1.0,
+            "access_count": 0,
+            "last_accessed": "2026-09-01T11:41:44.441646993Z"
+        },
+        "sym:index.html:.section-title": {
+            "id": "sym:index.html:.section-title",
+            "project_id": "anti",
+            "file_path": "index.html",
+            "node_type": "style_token",
+            "name": ".section-title",
+            "signature": ".section-title {",
+            "line_range": {
+                "start": 1,
+                "end": 2
+            },
+            "token_cost": 8,
+            "content": null,
+            "content_hash": "",
+            "parent": null,
+            "base_relevance": 1.0,
+            "access_count": 0,
+            "last_accessed": "2026-09-01T11:41:44.441684422Z"
+        },
+        "sym:index.html:.cake-wrapper": {
+            "id": "sym:index.html:.cake-wrapper",
+            "project_id": "anti",
+            "file_path": "index.html",
+            "node_type": "style_token",
+            "name": ".cake-wrapper",
+            "signature": ".cake-wrapper {",
+            "line_range": {
+                "start": 1,
+                "end": 2
+            },
+            "token_cost": 8,
+            "content": null,
+            "content_hash": "",
+            "parent": null,
+            "base_relevance": 1.0,
+            "access_count": 0,
+            "last_accessed": "2026-09-01T11:41:44.441709434Z"
+        },
+        "sym:index.html:.note-body": {
+            "id": "sym:index.html:.note-body",
+            "project_id": "anti",
+            "file_path": "index.html",
+            "node_type": "style_token",
+            "name": ".note-body",
+            "signature": ".note-body {",
+            "line_range": {
+                "start": 1,
+                "end": 2
+            },
+            "token_cost": 8,
+            "content": null,
+            "content_hash": "",
+            "parent": null,
+            "base_relevance": 1.0,
+            "access_count": 0,
+            "last_accessed": "2026-09-01T11:41:44.441779843Z"
+        },
+        "sym:index.html:.wish-msg": {
+            "id": "sym:index.html:.wish-msg",
+            "project_id": "anti",
+            "file_path": "index.html",
+            "node_type": "style_token",
+            "name": ".wish-msg",
+            "signature": ".wish-msg {",
+            "line_range": {
+                "start": 1,
+                "end": 2
+            },
+            "token_cost": 8,
+            "content": null,
+            "content_hash": "",
+            "parent": null,
+            "base_relevance": 1.0,
+            "access_count": 0,
+            "last_accessed": "2026-09-01T11:41:44.441755767Z"
+        },
+        "sym:index.html:.orb-3": {
+            "id": "sym:index.html:.orb-3",
+            "project_id": "anti",
+            "file_path": "index.html",
+            "node_type": "style_token",
+            "name": ".orb-3",
+            "signature": ".orb-3 {",
+            "line_range": {
+                "start": 1,
+                "end": 2
+            },
+            "token_cost": 8,
+            "content": null,
+            "content_hash": "",
+            "parent": null,
+            "base_relevance": 1.0,
+            "access_count": 0,
+            "last_accessed": "2026-09-01T11:41:44.441605845Z"
+        },
+        "sym:index.html:.hero-img-overlay": {
+            "id": "sym:index.html:.hero-img-overlay",
+            "project_id": "anti",
+            "file_path": "index.html",
+            "node_type": "style_token",
+            "name": ".hero-img-overlay",
+            "signature": ".hero-img-overlay {",
+            "line_range": {
+                "start": 1,
+                "end": 2
+            },
+            "token_cost": 8,
+            "content": null,
+            "content_hash": "",
+            "parent": null,
+            "base_relevance": 1.0,
+            "access_count": 0,
+            "last_accessed": "2026-09-01T11:41:44.441675498Z"
+        },
+        "sym:index.html:#countdown-counter": {
+            "id": "sym:index.html:#countdown-counter",
+            "project_id": "anti",
+            "file_path": "index.html",
+            "node_type": "component",
+            "name": "#countdown-counter",
+            "signature": "<div id=\"countdown-counter\">",
+            "line_range": {
+                "start": 1,
+                "end": 2
+            },
+            "token_cost": 8,
+            "content": null,
+            "content_hash": "",
+            "parent": null,
+            "base_relevance": 1.0,
+            "access_count": 0,
+            "last_accessed": "2026-09-01T11:41:44.441521037Z"
+        },
+        "sym:index.html:.btn-secondary": {
+            "id": "sym:index.html:.btn-secondary",
+            "project_id": "anti",
+            "file_path": "index.html",
+            "node_type": "style_token",
+            "name": ".btn-secondary",
+            "signature": ".btn-secondary {",
+            "line_range": {
+                "start": 1,
+                "end": 2
+            },
+            "token_cost": 8,
+            "content": null,
+            "content_hash": "",
+            "parent": null,
+            "base_relevance": 1.0,
+            "access_count": 0,
+            "last_accessed": "2026-09-01T11:41:44.441666692Z"
+        },
+        "sym:index.html:#age-days": {
+            "id": "sym:index.html:#age-days",
+            "project_id": "anti",
+            "file_path": "index.html",
+            "node_type": "component",
+            "name": "#age-days",
+            "signature": "<div id=\"age-days\">",
+            "line_range": {
+                "start": 1,
+                "end": 2
+            },
+            "token_cost": 8,
+            "content": null,
+            "content_hash": "",
+            "parent": null,
+            "base_relevance": 1.0,
+            "access_count": 0,
+            "last_accessed": "2026-09-01T11:41:44.441505617Z"
+        },
+        "sym:index.html:triggerConfetti": {
+            "id": "sym:index.html:triggerConfetti",
+            "project_id": "anti",
+            "file_path": "index.html",
+            "node_type": "function",
+            "name": "triggerConfetti",
+            "signature": "function triggerConfetti()",
+            "line_range": {
+                "start": 1,
+                "end": 2
+            },
+            "token_cost": 8,
+            "content": null,
+            "content_hash": "",
+            "parent": null,
+            "base_relevance": 1.0,
+            "access_count": 0,
+            "last_accessed": "2026-09-01T11:41:44.441572228Z"
+        },
+        "sym:index.html:.orb-1": {
+            "id": "sym:index.html:.orb-1",
+            "project_id": "anti",
+            "file_path": "index.html",
+            "node_type": "style_token",
+            "name": ".orb-1",
+            "signature": ".orb-1 {",
+            "line_range": {
+                "start": 1,
+                "end": 2
+            },
+            "token_cost": 8,
+            "content": null,
+            "content_hash": "",
+            "parent": null,
+            "base_relevance": 1.0,
+            "access_count": 0,
+            "last_accessed": "2026-09-01T11:41:44.441599960Z"
+        },
+        "sym:index.html:.music-btn": {
+            "id": "sym:index.html:.music-btn",
+            "project_id": "anti",
+            "file_path": "index.html",
+            "node_type": "style_token",
+            "name": ".music-btn",
+            "signature": ".music-btn {",
+            "line_range": {
+                "start": 1,
+                "end": 2
+            },
+            "token_cost": 8,
+            "content": null,
+            "content_hash": "",
+            "parent": null,
+            "base_relevance": 1.0,
+            "access_count": 0,
+            "last_accessed": "2026-09-01T11:41:44.441632192Z"
+        },
+        "sym:index.html:.hero-img-box": {
+            "id": "sym:index.html:.hero-img-box",
+            "project_id": "anti",
+            "file_path": "index.html",
+            "node_type": "style_token",
+            "name": ".hero-img-box",
+            "signature": ".hero-img-box {",
+            "line_range": {
+                "start": 1,
+                "end": 2
+            },
+            "token_cost": 8,
+            "content": null,
+            "content_hash": "",
+            "parent": null,
+            "base_relevance": 1.0,
+            "access_count": 0,
+            "last_accessed": "2026-09-01T11:41:44.441672678Z"
+        },
+        "sym:index.html:#cd-secs": {
+            "id": "sym:index.html:#cd-secs",
+            "project_id": "anti",
+            "file_path": "index.html",
+            "node_type": "component",
+            "name": "#cd-secs",
+            "signature": "<div id=\"cd-secs\">",
+            "line_range": {
+                "start": 1,
+                "end": 2
+            },
+            "token_cost": 8,
+            "content": null,
+            "content_hash": "",
+            "parent": null,
+            "base_relevance": 1.0,
+            "access_count": 0,
+            "last_accessed": "2026-09-01T11:41:44.441541005Z"
+        },
+        "sym:index.html:.candle": {
+            "id": "sym:index.html:.candle",
+            "project_id": "anti",
+            "file_path": "index.html",
+            "node_type": "style_token",
+            "name": ".candle",
+            "signature": ".candle {",
+            "line_range": {
+                "start": 1,
+                "end": 2
+            },
+            "token_cost": 8,
+            "content": null,
+            "content_hash": "",
+            "parent": null,
+            "base_relevance": 1.0,
+            "access_count": 0,
+            "last_accessed": "2026-09-01T11:41:44.441750476Z"
+        },
+        "sym:index.html:.layer-top": {
+            "id": "sym:index.html:.layer-top",
+            "project_id": "anti",
+            "file_path": "index.html",
+            "node_type": "style_token",
+            "name": ".layer-top",
+            "signature": ".layer-top {",
+            "line_range": {
+                "start": 1,
+                "end": 2
+            },
+            "token_cost": 8,
+            "content": null,
+            "content_hash": "",
+            "parent": null,
+            "base_relevance": 1.0,
+            "access_count": 0,
+            "last_accessed": "2026-09-01T11:41:44.441743957Z"
+        },
+        "sym:index.html:#cd-days": {
+            "id": "sym:index.html:#cd-days",
+            "project_id": "anti",
+            "file_path": "index.html",
+            "node_type": "component",
+            "name": "#cd-days",
+            "signature": "<div id=\"cd-days\">",
+            "line_range": {
+                "start": 1,
+                "end": 2
+            },
+            "token_cost": 8,
+            "content": null,
+            "content_hash": "",
+            "parent": null,
+            "base_relevance": 1.0,
+            "access_count": 0,
+            "last_accessed": "2026-09-01T11:41:44.441526986Z"
+        },
+        "sym:index.html:#surprise-text": {
+            "id": "sym:index.html:#surprise-text",
+            "project_id": "anti",
+            "file_path": "index.html",
+            "node_type": "component",
+            "name": "#surprise-text",
+            "signature": "<div id=\"surprise-text\">",
+            "line_range": {
+                "start": 1,
+                "end": 2
+            },
+            "token_cost": 8,
+            "content": null,
+            "content_hash": "",
+            "parent": null,
+            "base_relevance": 1.0,
+            "access_count": 0,
+            "last_accessed": "2026-09-01T11:41:44.441552628Z"
+        },
+        "sym:index.html:#age-secs": {
+            "id": "sym:index.html:#age-secs",
+            "project_id": "anti",
+            "file_path": "index.html",
+            "node_type": "component",
+            "name": "#age-secs",
+            "signature": "<div id=\"age-secs\">",
+            "line_range": {
+                "start": 1,
+                "end": 2
+            },
+            "token_cost": 8,
+            "content": null,
+            "content_hash": "",
+            "parent": null,
+            "base_relevance": 1.0,
+            "access_count": 0,
+            "last_accessed": "2026-09-01T11:41:44.441516594Z"
+        },
+        "sym:index.html:.poem-card": {
+            "id": "sym:index.html:.poem-card",
+            "project_id": "anti",
+            "file_path": "index.html",
+            "node_type": "style_token",
+            "name": ".poem-card",
+            "signature": ".poem-card {",
+            "line_range": {
+                "start": 1,
+                "end": 2
+            },
+            "token_cost": 8,
+            "content": null,
+            "content_hash": "",
+            "parent": null,
+            "base_relevance": 1.0,
+            "access_count": 0,
+            "last_accessed": "2026-09-01T11:41:44.441761411Z"
+        },
+        "sym:index.html:blowCandle": {
+            "id": "sym:index.html:blowCandle",
+            "project_id": "anti",
+            "file_path": "index.html",
+            "node_type": "function",
+            "name": "blowCandle",
+            "signature": "function blowCandle()",
+            "line_range": {
+                "start": 1,
+                "end": 2
+            },
+            "token_cost": 8,
+            "content": null,
+            "content_hash": "",
+            "parent": null,
+            "base_relevance": 1.0,
+            "access_count": 0,
+            "last_accessed": "2026-09-01T11:41:44.441575716Z"
+        },
+        "sym:index.html:.glass-card": {
+            "id": "sym:index.html:.glass-card",
+            "project_id": "anti",
+            "file_path": "index.html",
+            "node_type": "style_token",
+            "name": ".glass-card",
+            "signature": ".glass-card {",
+            "line_range": {
+                "start": 1,
+                "end": 2
+            },
+            "token_cost": 8,
+            "content": null,
+            "content_hash": "",
+            "parent": null,
+            "base_relevance": 1.0,
+            "access_count": 0,
+            "last_accessed": "2026-09-01T11:41:44.441616081Z"
+        },
+        "sym:index.html:.btn-primary": {
+            "id": "sym:index.html:.btn-primary",
+            "project_id": "anti",
+            "file_path": "index.html",
+            "node_type": "style_token",
+            "name": ".btn-primary",
+            "signature": ".btn-primary {",
+            "line_range": {
+                "start": 1,
+                "end": 2
+            },
+            "token_cost": 8,
+            "content": null,
+            "content_hash": "",
+            "parent": null,
+            "base_relevance": 1.0,
+            "access_count": 0,
+            "last_accessed": "2026-09-01T11:41:44.441663864Z"
+        },
+        "sym:index.html:.grid-2": {
+            "id": "sym:index.html:.grid-2",
+            "project_id": "anti",
+            "file_path": "index.html",
+            "node_type": "style_token",
+            "name": ".grid-2",
+            "signature": ".grid-2 {",
+            "line_range": {
+                "start": 1,
+                "end": 2
+            },
+            "token_cost": 8,
+            "content": null,
+            "content_hash": "",
+            "parent": null,
+            "base_relevance": 1.0,
+            "access_count": 0,
+            "last_accessed": "2026-09-01T11:41:44.441689451Z"
+        },
+        "sym:index.html:.surprise-box": {
+            "id": "sym:index.html:.surprise-box",
+            "project_id": "anti",
+            "file_path": "index.html",
+            "node_type": "style_token",
+            "name": ".surprise-box",
+            "signature": ".surprise-box {",
+            "line_range": {
+                "start": 1,
+                "end": 2
+            },
+            "token_cost": 8,
+            "content": null,
+            "content_hash": "",
+            "parent": null,
+            "base_relevance": 1.0,
+            "access_count": 0,
+            "last_accessed": "2026-09-01T11:41:44.441781975Z"
+        },
+        "sym:index.html:.flame": {
+            "id": "sym:index.html:.flame",
+            "project_id": "anti",
+            "file_path": "index.html",
+            "node_type": "style_token",
+            "name": ".flame",
+            "signature": ".flame {",
+            "line_range": {
+                "start": 1,
+                "end": 2
+            },
+            "token_cost": 8,
+            "content": null,
+            "content_hash": "",
+            "parent": null,
+            "base_relevance": 1.0,
+            "access_count": 0,
+            "last_accessed": "2026-09-01T11:41:44.441753559Z"
+        },
+        "sym:index.html:.layer-middle": {
+            "id": "sym:index.html:.layer-middle",
+            "project_id": "anti",
+            "file_path": "index.html",
+            "node_type": "style_token",
+            "name": ".layer-middle",
+            "signature": ".layer-middle {",
+            "line_range": {
+                "start": 1,
+                "end": 2
+            },
+            "token_cost": 8,
+            "content": null,
+            "content_hash": "",
+            "parent": null,
+            "base_relevance": 1.0,
+            "access_count": 0,
+            "last_accessed": "2026-09-01T11:41:44.441741436Z"
+        },
+        "sym:index.html:.hero-actions": {
+            "id": "sym:index.html:.hero-actions",
+            "project_id": "anti",
+            "file_path": "index.html",
+            "node_type": "style_token",
+            "name": ".hero-actions",
+            "signature": ".hero-actions {",
+            "line_range": {
+                "start": 1,
+                "end": 2
+            },
+            "token_cost": 8,
+            "content": null,
+            "content_hash": "",
+            "parent": null,
+            "base_relevance": 1.0,
+            "access_count": 0,
+            "last_accessed": "2026-09-01T11:41:44.441661355Z"
+        },
+        "sym:index.html:.counter-timer": {
+            "id": "sym:index.html:.counter-timer",
+            "project_id": "anti",
+            "file_path": "index.html",
+            "node_type": "style_token",
+            "name": ".counter-timer",
+            "signature": ".counter-timer {",
+            "line_range": {
+                "start": 1,
+                "end": 2
+            },
+            "token_cost": 8,
+            "content": null,
+            "content_hash": "",
+            "parent": null,
+            "base_relevance": 1.0,
+            "access_count": 0,
+            "last_accessed": "2026-09-01T11:41:44.441697465Z"
+        },
+        "sym:index.html:.hero-badge": {
+            "id": "sym:index.html:.hero-badge",
+            "project_id": "anti",
+            "file_path": "index.html",
+            "node_type": "style_token",
+            "name": ".hero-badge",
+            "signature": ".hero-badge {",
+            "line_range": {
+                "start": 1,
+                "end": 2
+            },
+            "token_cost": 8,
+            "content": null,
+            "content_hash": "",
+            "parent": null,
+            "base_relevance": 1.0,
+            "access_count": 0,
+            "last_accessed": "2026-09-01T11:41:44.441641622Z"
+        },
+        "sym:index.html:animateStars": {
+            "id": "sym:index.html:animateStars",
+            "project_id": "anti",
+            "file_path": "index.html",
+            "node_type": "function",
+            "name": "animateStars",
+            "signature": "function animateStars()",
+            "line_range": {
+                "start": 1,
+                "end": 2
+            },
+            "token_cost": 8,
+            "content": null,
+            "content_hash": "",
+            "parent": null,
+            "base_relevance": 1.0,
+            "access_count": 0,
+            "last_accessed": "2026-09-01T11:41:44.441593627Z"
+        },
+        "sym:index.html:.poem-verses": {
+            "id": "sym:index.html:.poem-verses",
+            "project_id": "anti",
+            "file_path": "index.html",
+            "node_type": "style_token",
+            "name": ".poem-verses",
+            "signature": ".poem-verses {",
+            "line_range": {
+                "start": 1,
+                "end": 2
+            },
+            "token_cost": 8,
+            "content": null,
+            "content_hash": "",
+            "parent": null,
+            "base_relevance": 1.0,
+            "access_count": 0,
+            "last_accessed": "2026-09-01T11:41:44.441766638Z"
+        },
+        "sym:index.html:.note-title": {
+            "id": "sym:index.html:.note-title",
+            "project_id": "anti",
+            "file_path": "index.html",
+            "node_type": "style_token",
+            "name": ".note-title",
+            "signature": ".note-title {",
+            "line_range": {
+                "start": 1,
+                "end": 2
+            },
+            "token_cost": 8,
+            "content": null,
+            "content_hash": "",
+            "parent": null,
+            "base_relevance": 1.0,
+            "access_count": 0,
+            "last_accessed": "2026-09-01T11:41:44.441777629Z"
+        }
+    },
+    "edges": {
+        "file:index.html->sym:index.html:.note-body::Contains": {
+            "id": "file:index.html->sym:index.html:.note-body::Contains",
+            "project_id": "anti",
+            "source": "file:index.html",
+            "target": "sym:index.html:.note-body",
+            "edge_type": "contains",
+            "pheromone_weight": 0.5,
+            "reinforcement_count": 0,
+            "failure_count": 0,
+            "last_reinforced": "2026-09-01T11:41:44.441781169Z",
+            "confidence": "proven"
+        },
+        "file:index.html->sym:index.html:.plate::Contains": {
+            "id": "file:index.html->sym:index.html:.plate::Contains",
+            "project_id": "anti",
+            "source": "file:index.html",
+            "target": "sym:index.html:.plate",
+            "edge_type": "contains",
+            "pheromone_weight": 0.5,
+            "reinforcement_count": 0,
+            "failure_count": 0,
+            "last_reinforced": "2026-09-01T11:41:44.441727720Z",
+            "confidence": "proven"
+        },
+        "file:index.html->sym:index.html:#age-hours::Contains": {
+            "id": "file:index.html->sym:index.html:#age-hours::Contains",
+            "project_id": "anti",
+            "source": "file:index.html",
+            "target": "sym:index.html:#age-hours",
+            "edge_type": "contains",
+            "pheromone_weight": 0.5,
+            "reinforcement_count": 0,
+            "failure_count": 0,
+            "last_reinforced": "2026-09-01T11:41:44.441515065Z",
+            "confidence": "proven"
+        },
+        "file:index.html->sym:index.html:#cake-section::Contains": {
+            "id": "file:index.html->sym:index.html:#cake-section::Contains",
+            "project_id": "anti",
+            "source": "file:index.html",
+            "target": "sym:index.html:#cake-section",
+            "edge_type": "contains",
+            "pheromone_weight": 0.5,
+            "reinforcement_count": 0,
+            "failure_count": 0,
+            "last_reinforced": "2026-09-01T11:41:44.441547546Z",
+            "confidence": "proven"
+        },
+        "file:index.html->sym:index.html:.grid-2::Contains": {
+            "id": "file:index.html->sym:index.html:.grid-2::Contains",
+            "project_id": "anti",
+            "source": "file:index.html",
+            "target": "sym:index.html:.grid-2",
+            "edge_type": "contains",
+            "pheromone_weight": 0.5,
+            "reinforcement_count": 0,
+            "failure_count": 0,
+            "last_reinforced": "2026-09-01T11:41:44.441690941Z",
+            "confidence": "proven"
+        },
+        "file:index.html->sym:index.html:.counter-title::Contains": {
+            "id": "file:index.html->sym:index.html:.counter-title::Contains",
+            "project_id": "anti",
+            "source": "file:index.html",
+            "target": "sym:index.html:.counter-title",
+            "edge_type": "contains",
+            "pheromone_weight": 0.5,
+            "reinforcement_count": 0,
+            "failure_count": 0,
+            "last_reinforced": "2026-09-01T11:41:44.441696596Z",
+            "confidence": "proven"
+        },
+        "file:index.html->sym:index.html:.section-header::Contains": {
+            "id": "file:index.html->sym:index.html:.section-header::Contains",
+            "project_id": "anti",
+            "source": "file:index.html",
+            "target": "sym:index.html:.section-header",
+            "edge_type": "contains",
+            "pheromone_weight": 0.5,
+            "reinforcement_count": 0,
+            "failure_count": 0,
+            "last_reinforced": "2026-09-01T11:41:44.441680512Z",
+            "confidence": "proven"
+        },
+        "file:index.html->sym:index.html:updateBirthdayCountdown::Contains": {
+            "id": "file:index.html->sym:index.html:updateBirthdayCountdown::Contains",
+            "project_id": "anti",
+            "source": "file:index.html",
+            "target": "sym:index.html:updateBirthdayCountdown",
+            "edge_type": "contains",
+            "pheromone_weight": 0.5,
+            "reinforcement_count": 0,
+            "failure_count": 0,
+            "last_reinforced": "2026-09-01T11:41:44.441570920Z",
+            "confidence": "proven"
+        },
+        "file:index.html->sym:index.html:.timer-lbl::Contains": {
+            "id": "file:index.html->sym:index.html:.timer-lbl::Contains",
+            "project_id": "anti",
+            "source": "file:index.html",
+            "target": "sym:index.html:.timer-lbl",
+            "edge_type": "contains",
+            "pheromone_weight": 0.5,
+            "reinforcement_count": 0,
+            "failure_count": 0,
+            "last_reinforced": "2026-09-01T11:41:44.441706114Z",
+            "confidence": "proven"
+        },
+        "file:index.html->sym:index.html:.counter-card::Contains": {
+            "id": "file:index.html->sym:index.html:.counter-card::Contains",
+            "project_id": "anti",
+            "source": "file:index.html",
+            "target": "sym:index.html:.counter-card",
+            "edge_type": "contains",
+            "pheromone_weight": 0.5,
+            "reinforcement_count": 0,
+            "failure_count": 0,
+            "last_reinforced": "2026-09-01T11:41:44.441693917Z",
+            "confidence": "proven"
+        },
+        "file:index.html->sym:index.html:.orb::Contains": {
+            "id": "file:index.html->sym:index.html:.orb::Contains",
+            "project_id": "anti",
+            "source": "file:index.html",
+            "target": "sym:index.html:.orb",
+            "edge_type": "contains",
+            "pheromone_weight": 0.5,
+            "reinforcement_count": 0,
+            "failure_count": 0,
+            "last_reinforced": "2026-09-01T11:41:44.441598672Z",
+            "confidence": "proven"
+        },
+        "file:index.html->sym:index.html:#cd-hours::Contains": {
+            "id": "file:index.html->sym:index.html:#cd-hours::Contains",
+            "project_id": "anti",
+            "source": "file:index.html",
+            "target": "sym:index.html:#cd-hours",
+            "edge_type": "contains",
+            "pheromone_weight": 0.5,
+            "reinforcement_count": 0,
+            "failure_count": 0,
+            "last_reinforced": "2026-09-01T11:41:44.441536080Z",
+            "confidence": "proven"
+        },
+        "file:index.html->sym:index.html:.hero-subtitle::Contains": {
+            "id": "file:index.html->sym:index.html:.hero-subtitle::Contains",
+            "project_id": "anti",
+            "source": "file:index.html",
+            "target": "sym:index.html:.hero-subtitle",
+            "edge_type": "contains",
+            "pheromone_weight": 0.5,
+            "reinforcement_count": 0,
+            "failure_count": 0,
+            "last_reinforced": "2026-09-01T11:41:44.441648545Z",
+            "confidence": "proven"
+        },
+        "file:index.html->sym:index.html:.hero-title::Contains": {
+            "id": "file:index.html->sym:index.html:.hero-title::Contains",
+            "project_id": "anti",
+            "source": "file:index.html",
+            "target": "sym:index.html:.hero-title",
+            "edge_type": "contains",
+            "pheromone_weight": 0.5,
+            "reinforcement_count": 0,
+            "failure_count": 0,
+            "last_reinforced": "2026-09-01T11:41:44.441646055Z",
+            "confidence": "proven"
+        },
+        "file:index.html->sym:index.html:.pill-item::Contains": {
+            "id": "file:index.html->sym:index.html:.pill-item::Contains",
+            "project_id": "anti",
+            "source": "file:index.html",
+            "target": "sym:index.html:.pill-item",
+            "edge_type": "contains",
+            "pheromone_weight": 0.5,
+            "reinforcement_count": 0,
+            "failure_count": 0,
+            "last_reinforced": "2026-09-01T11:41:44.441657595Z",
+            "confidence": "proven"
+        },
+        "file:index.html->sym:index.html:revealSurprise::Contains": {
+            "id": "file:index.html->sym:index.html:revealSurprise::Contains",
+            "project_id": "anti",
+            "source": "file:index.html",
+            "target": "sym:index.html:revealSurprise",
+            "edge_type": "contains",
+            "pheromone_weight": 0.5,
+            "reinforcement_count": 0,
+            "failure_count": 0,
+            "last_reinforced": "2026-09-01T11:41:44.441583078Z",
+            "confidence": "proven"
+        },
+        "file:index.html->sym:index.html:.layer-top::Contains": {
+            "id": "file:index.html->sym:index.html:.layer-top::Contains",
+            "project_id": "anti",
+            "source": "file:index.html",
+            "target": "sym:index.html:.layer-top",
+            "edge_type": "contains",
+            "pheromone_weight": 0.5,
+            "reinforcement_count": 0,
+            "failure_count": 0,
+            "last_reinforced": "2026-09-01T11:41:44.441746296Z",
+            "confidence": "proven"
+        },
+        "file:index.html->sym:index.html:.cake::Contains": {
+            "id": "file:index.html->sym:index.html:.cake::Contains",
+            "project_id": "anti",
+            "source": "file:index.html",
+            "target": "sym:index.html:.cake",
+            "edge_type": "contains",
+            "pheromone_weight": 0.5,
+            "reinforcement_count": 0,
+            "failure_count": 0,
+            "last_reinforced": "2026-09-01T11:41:44.441721914Z",
+            "confidence": "proven"
+        },
+        "file:index.html->sym:index.html:.hero-badge::Contains": {
+            "id": "file:index.html->sym:index.html:.hero-badge::Contains",
+            "project_id": "anti",
+            "source": "file:index.html",
+            "target": "sym:index.html:.hero-badge",
+            "edge_type": "contains",
+            "pheromone_weight": 0.5,
+            "reinforcement_count": 0,
+            "failure_count": 0,
+            "last_reinforced": "2026-09-01T11:41:44.441643349Z",
+            "confidence": "proven"
+        },
+        "file:index.html->sym:index.html:.candle::Contains": {
+            "id": "file:index.html->sym:index.html:.candle::Contains",
+            "project_id": "anti",
+            "source": "file:index.html",
+            "target": "sym:index.html:.candle",
+            "edge_type": "contains",
+            "pheromone_weight": 0.5,
+            "reinforcement_count": 0,
+            "failure_count": 0,
+            "last_reinforced": "2026-09-01T11:41:44.441752077Z",
+            "confidence": "proven"
+        },
+        "file:index.html->sym:index.html:#cd-secs::Contains": {
+            "id": "file:index.html->sym:index.html:#cd-secs::Contains",
+            "project_id": "anti",
+            "source": "file:index.html",
+            "target": "sym:index.html:#cd-secs",
+            "edge_type": "contains",
+            "pheromone_weight": 0.5,
+            "reinforcement_count": 0,
+            "failure_count": 0,
+            "last_reinforced": "2026-09-01T11:41:44.441543026Z",
+            "confidence": "proven"
+        },
+        "file:index.html->sym:index.html:.hero-img-overlay::Contains": {
+            "id": "file:index.html->sym:index.html:.hero-img-overlay::Contains",
+            "project_id": "anti",
+            "source": "file:index.html",
+            "target": "sym:index.html:.hero-img-overlay",
+            "edge_type": "contains",
+            "pheromone_weight": 0.5,
+            "reinforcement_count": 0,
+            "failure_count": 0,
+            "last_reinforced": "2026-09-01T11:41:44.441677713Z",
+            "confidence": "proven"
+        },
+        "file:index.html->sym:index.html:.app-container::Contains": {
+            "id": "file:index.html->sym:index.html:.app-container::Contains",
+            "project_id": "anti",
+            "source": "file:index.html",
+            "target": "sym:index.html:.app-container",
+            "edge_type": "contains",
+            "pheromone_weight": 0.5,
+            "reinforcement_count": 0,
+            "failure_count": 0,
+            "last_reinforced": "2026-09-01T11:41:44.441614661Z",
+            "confidence": "proven"
+        },
+        "file:index.html->sym:index.html:.surprise-box::Contains": {
+            "id": "file:index.html->sym:index.html:.surprise-box::Contains",
+            "project_id": "anti",
+            "source": "file:index.html",
+            "target": "sym:index.html:.surprise-box",
+            "edge_type": "contains",
+            "pheromone_weight": 0.5,
+            "reinforcement_count": 0,
+            "failure_count": 0,
+            "last_reinforced": "2026-09-01T11:41:44.441783558Z",
+            "confidence": "proven"
+        },
+        "file:index.html->sym:index.html:.section-subtitle::Contains": {
+            "id": "file:index.html->sym:index.html:.section-subtitle::Contains",
+            "project_id": "anti",
+            "source": "file:index.html",
+            "target": "sym:index.html:.section-subtitle",
+            "edge_type": "contains",
+            "pheromone_weight": 0.5,
+            "reinforcement_count": 0,
+            "failure_count": 0,
+            "last_reinforced": "2026-09-01T11:41:44.441683397Z",
+            "confidence": "proven"
+        },
+        "file:index.html->sym:index.html:.note-card::Contains": {
+            "id": "file:index.html->sym:index.html:.note-card::Contains",
+            "project_id": "anti",
+            "source": "file:index.html",
+            "target": "sym:index.html:.note-card",
+            "edge_type": "contains",
+            "pheromone_weight": 0.5,
+            "reinforcement_count": 0,
+            "failure_count": 0,
+            "last_reinforced": "2026-09-01T11:41:44.441774692Z",
+            "confidence": "proven"
+        },
+        "file:index.html->sym:index.html:toggleAudio::Contains": {
+            "id": "file:index.html->sym:index.html:toggleAudio::Contains",
+            "project_id": "anti",
+            "source": "file:index.html",
+            "target": "sym:index.html:toggleAudio",
+            "edge_type": "contains",
+            "pheromone_weight": 0.5,
+            "reinforcement_count": 0,
+            "failure_count": 0,
+            "last_reinforced": "2026-09-01T11:41:44.441589820Z",
+            "confidence": "proven"
+        },
+        "file:index.html->sym:index.html:.hero-details-pill::Contains": {
+            "id": "file:index.html->sym:index.html:.hero-details-pill::Contains",
+            "project_id": "anti",
+            "source": "file:index.html",
+            "target": "sym:index.html:.hero-details-pill",
+            "edge_type": "contains",
+            "pheromone_weight": 0.5,
+            "reinforcement_count": 0,
+            "failure_count": 0,
+            "last_reinforced": "2026-09-01T11:41:44.441654844Z",
+            "confidence": "proven"
+        },
+        "file:index.html->sym:index.html:#age-days::Contains": {
+            "id": "file:index.html->sym:index.html:#age-days::Contains",
+            "project_id": "anti",
+            "source": "file:index.html",
+            "target": "sym:index.html:#age-days",
+            "edge_type": "contains",
+            "pheromone_weight": 0.5,
+            "reinforcement_count": 0,
+            "failure_count": 0,
+            "last_reinforced": "2026-09-01T11:41:44.441509782Z",
+            "confidence": "proven"
+        },
+        "file:index.html->sym:index.html:.layer-bottom::Contains": {
+            "id": "file:index.html->sym:index.html:.layer-bottom::Contains",
+            "project_id": "anti",
+            "source": "file:index.html",
+            "target": "sym:index.html:.layer-bottom",
+            "edge_type": "contains",
+            "pheromone_weight": 0.5,
+            "reinforcement_count": 0,
+            "failure_count": 0,
+            "last_reinforced": "2026-09-01T11:41:44.441740548Z",
+            "confidence": "proven"
+        },
+        "file:index.html->sym:index.html:.poem-quote-icon::Contains": {
+            "id": "file:index.html->sym:index.html:.poem-quote-icon::Contains",
+            "project_id": "anti",
+            "source": "file:index.html",
+            "target": "sym:index.html:.poem-quote-icon",
+            "edge_type": "contains",
+            "pheromone_weight": 0.5,
+            "reinforcement_count": 0,
+            "failure_count": 0,
+            "last_reinforced": "2026-09-01T11:41:44.441765777Z",
+            "confidence": "proven"
+        },
+        "file:index.html->sym:index.html:initStars::Contains": {
+            "id": "file:index.html->sym:index.html:initStars::Contains",
+            "project_id": "anti",
+            "source": "file:index.html",
+            "target": "sym:index.html:initStars",
+            "edge_type": "contains",
+            "pheromone_weight": 0.5,
+            "reinforcement_count": 0,
+            "failure_count": 0,
+            "last_reinforced": "2026-09-01T11:41:44.441592697Z",
+            "confidence": "proven"
+        },
+        "file:index.html->sym:index.html:.hero-img-box::Contains": {
+            "id": "file:index.html->sym:index.html:.hero-img-box::Contains",
+            "project_id": "anti",
+            "source": "file:index.html",
+            "target": "sym:index.html:.hero-img-box",
+            "edge_type": "contains",
+            "pheromone_weight": 0.5,
+            "reinforcement_count": 0,
+            "failure_count": 0,
+            "last_reinforced": "2026-09-01T11:41:44.441674516Z",
+            "confidence": "proven"
+        },
+        "file:index.html->sym:index.html:.poetry-section::Contains": {
+            "id": "file:index.html->sym:index.html:.poetry-section::Contains",
+            "project_id": "anti",
+            "source": "file:index.html",
+            "target": "sym:index.html:.poetry-section",
+            "edge_type": "contains",
+            "pheromone_weight": 0.5,
+            "reinforcement_count": 0,
+            "failure_count": 0,
+            "last_reinforced": "2026-09-01T11:41:44.441760522Z",
+            "confidence": "proven"
+        },
+        "file:index.html->sym:index.html:.notes-grid::Contains": {
+            "id": "file:index.html->sym:index.html:.notes-grid::Contains",
+            "project_id": "anti",
+            "source": "file:index.html",
+            "target": "sym:index.html:.notes-grid",
+            "edge_type": "contains",
+            "pheromone_weight": 0.5,
+            "reinforcement_count": 0,
+            "failure_count": 0,
+            "last_reinforced": "2026-09-01T11:41:44.441772590Z",
+            "confidence": "proven"
+        },
+        "file:index.html->sym:index.html:.orb-1::Contains": {
+            "id": "file:index.html->sym:index.html:.orb-1::Contains",
+            "project_id": "anti",
+            "source": "file:index.html",
+            "target": "sym:index.html:.orb-1",
+            "edge_type": "contains",
+            "pheromone_weight": 0.5,
+            "reinforcement_count": 0,
+            "failure_count": 0,
+            "last_reinforced": "2026-09-01T11:41:44.441601777Z",
+            "confidence": "proven"
+        },
+        "file:index.html->sym:index.html:.counter-timer::Contains": {
+            "id": "file:index.html->sym:index.html:.counter-timer::Contains",
+            "project_id": "anti",
+            "source": "file:index.html",
+            "target": "sym:index.html:.counter-timer",
+            "edge_type": "contains",
+            "pheromone_weight": 0.5,
+            "reinforcement_count": 0,
+            "failure_count": 0,
+            "last_reinforced": "2026-09-01T11:41:44.441698932Z",
+            "confidence": "proven"
+        },
+        "file:index.html->sym:index.html:.music-btn::Contains": {
+            "id": "file:index.html->sym:index.html:.music-btn::Contains",
+            "project_id": "anti",
+            "source": "file:index.html",
+            "target": "sym:index.html:.music-btn",
+            "edge_type": "contains",
+            "pheromone_weight": 0.5,
+            "reinforcement_count": 0,
+            "failure_count": 0,
+            "last_reinforced": "2026-09-01T11:41:44.441634801Z",
+            "confidence": "proven"
+        },
+        "file:index.html->sym:index.html:.poem-verses::Contains": {
+            "id": "file:index.html->sym:index.html:.poem-verses::Contains",
+            "project_id": "anti",
+            "source": "file:index.html",
+            "target": "sym:index.html:.poem-verses",
+            "edge_type": "contains",
+            "pheromone_weight": 0.5,
+            "reinforcement_count": 0,
+            "failure_count": 0,
+            "last_reinforced": "2026-09-01T11:41:44.441768082Z",
+            "confidence": "proven"
+        },
+        "file:index.html->sym:index.html:.hero::Contains": {
+            "id": "file:index.html->sym:index.html:.hero::Contains",
+            "project_id": "anti",
+            "source": "file:index.html",
+            "target": "sym:index.html:.hero",
+            "edge_type": "contains",
+            "pheromone_weight": 0.5,
+            "reinforcement_count": 0,
+            "failure_count": 0,
+            "last_reinforced": "2026-09-01T11:41:44.441640293Z",
+            "confidence": "proven"
+        },
+        "file:index.html->sym:index.html:#cd-mins::Contains": {
+            "id": "file:index.html->sym:index.html:#cd-mins::Contains",
+            "project_id": "anti",
+            "source": "file:index.html",
+            "target": "sym:index.html:#cd-mins",
+            "edge_type": "contains",
+            "pheromone_weight": 0.5,
+            "reinforcement_count": 0,
+            "failure_count": 0,
+            "last_reinforced": "2026-09-01T11:41:44.441539769Z",
+            "confidence": "proven"
+        },
+        "file:index.html->sym:index.html:#surprise-text::Contains": {
+            "id": "file:index.html->sym:index.html:#surprise-text::Contains",
+            "project_id": "anti",
+            "source": "file:index.html",
+            "target": "sym:index.html:#surprise-text",
+            "edge_type": "contains",
+            "pheromone_weight": 0.5,
+            "reinforcement_count": 0,
+            "failure_count": 0,
+            "last_reinforced": "2026-09-01T11:41:44.441557872Z",
+            "confidence": "proven"
+        },
+        "file:index.html->sym:index.html:.cake-section::Contains": {
+            "id": "file:index.html->sym:index.html:.cake-section::Contains",
+            "project_id": "anti",
+            "source": "file:index.html",
+            "target": "sym:index.html:.cake-section",
+            "edge_type": "contains",
+            "pheromone_weight": 0.5,
+            "reinforcement_count": 0,
+            "failure_count": 0,
+            "last_reinforced": "2026-09-01T11:41:44.441708559Z",
+            "confidence": "proven"
+        },
+        "file:index.html->sym:index.html:.glass-card::Contains": {
+            "id": "file:index.html->sym:index.html:.glass-card::Contains",
+            "project_id": "anti",
+            "source": "file:index.html",
+            "target": "sym:index.html:.glass-card",
+            "edge_type": "contains",
+            "pheromone_weight": 0.5,
+            "reinforcement_count": 0,
+            "failure_count": 0,
+            "last_reinforced": "2026-09-01T11:41:44.441619993Z",
+            "confidence": "proven"
+        },
+        "file:index.html->sym:index.html:updateAgeCounter::Contains": {
+            "id": "file:index.html->sym:index.html:updateAgeCounter::Contains",
+            "project_id": "anti",
+            "source": "file:index.html",
+            "target": "sym:index.html:updateAgeCounter",
+            "edge_type": "contains",
+            "pheromone_weight": 0.5,
+            "reinforcement_count": 0,
+            "failure_count": 0,
+            "last_reinforced": "2026-09-01T11:41:44.441563667Z",
+            "confidence": "proven"
+        },
+        "file:index.html->sym:index.html:.timer-val::Contains": {
+            "id": "file:index.html->sym:index.html:.timer-val::Contains",
+            "project_id": "anti",
+            "source": "file:index.html",
+            "target": "sym:index.html:.timer-val",
+            "edge_type": "contains",
+            "pheromone_weight": 0.5,
+            "reinforcement_count": 0,
+            "failure_count": 0,
+            "last_reinforced": "2026-09-01T11:41:44.441703784Z",
+            "confidence": "proven"
+        },
+        "file:index.html->sym:index.html:blowCandle::Contains": {
+            "id": "file:index.html->sym:index.html:blowCandle::Contains",
+            "project_id": "anti",
+            "source": "file:index.html",
+            "target": "sym:index.html:blowCandle",
+            "edge_type": "contains",
+            "pheromone_weight": 0.5,
+            "reinforcement_count": 0,
+            "failure_count": 0,
+            "last_reinforced": "2026-09-01T11:41:44.441577875Z",
+            "confidence": "proven"
+        },
+        "file:index.html->sym:index.html:#age-years::Contains": {
+            "id": "file:index.html->sym:index.html:#age-years::Contains",
+            "project_id": "anti",
+            "source": "file:index.html",
+            "target": "sym:index.html:#age-years",
+            "edge_type": "contains",
+            "pheromone_weight": 0.5,
+            "reinforcement_count": 0,
+            "failure_count": 0,
+            "last_reinforced": "2026-09-01T11:41:44.441503935Z",
+            "confidence": "proven"
+        },
+        "file:index.html->sym:index.html:#music-toggle::Contains": {
+            "id": "file:index.html->sym:index.html:#music-toggle::Contains",
+            "project_id": "anti",
+            "source": "file:index.html",
+            "target": "sym:index.html:#music-toggle",
+            "edge_type": "contains",
+            "pheromone_weight": 0.5,
+            "reinforcement_count": 0,
+            "failure_count": 0,
+            "last_reinforced": "2026-09-01T11:41:44.441491181Z",
+            "confidence": "proven"
+        },
+        "file:index.html->sym:index.html:#age-secs::Contains": {
+            "id": "file:index.html->sym:index.html:#age-secs::Contains",
+            "project_id": "anti",
+            "source": "file:index.html",
+            "target": "sym:index.html:#age-secs",
+            "edge_type": "contains",
+            "pheromone_weight": 0.5,
+            "reinforcement_count": 0,
+            "failure_count": 0,
+            "last_reinforced": "2026-09-01T11:41:44.441519459Z",
+            "confidence": "proven"
+        },
+        "file:index.html->sym:index.html:.poem-card::Contains": {
+            "id": "file:index.html->sym:index.html:.poem-card::Contains",
+            "project_id": "anti",
+            "source": "file:index.html",
+            "target": "sym:index.html:.poem-card",
+            "edge_type": "contains",
+            "pheromone_weight": 0.5,
+            "reinforcement_count": 0,
+            "failure_count": 0,
+            "last_reinforced": "2026-09-01T11:41:44.441762945Z",
+            "confidence": "proven"
+        },
+        "file:index.html->sym:index.html:.wish-msg::Contains": {
+            "id": "file:index.html->sym:index.html:.wish-msg::Contains",
+            "project_id": "anti",
+            "source": "file:index.html",
+            "target": "sym:index.html:.wish-msg",
+            "edge_type": "contains",
+            "pheromone_weight": 0.5,
+            "reinforcement_count": 0,
+            "failure_count": 0,
+            "last_reinforced": "2026-09-01T11:41:44.441757377Z",
+            "confidence": "proven"
+        },
+        "file:index.html->sym:index.html:#age-counter::Contains": {
+            "id": "file:index.html->sym:index.html:#age-counter::Contains",
+            "project_id": "anti",
+            "source": "file:index.html",
+            "target": "sym:index.html:#age-counter",
+            "edge_type": "contains",
+            "pheromone_weight": 0.5,
+            "reinforcement_count": 0,
+            "failure_count": 0,
+            "last_reinforced": "2026-09-01T11:41:44.441498345Z",
+            "confidence": "proven"
+        },
+        "file:index.html->sym:index.html:.orb-3::Contains": {
+            "id": "file:index.html->sym:index.html:.orb-3::Contains",
+            "project_id": "anti",
+            "source": "file:index.html",
+            "target": "sym:index.html:.orb-3",
+            "edge_type": "contains",
+            "pheromone_weight": 0.5,
+            "reinforcement_count": 0,
+            "failure_count": 0,
+            "last_reinforced": "2026-09-01T11:41:44.441607291Z",
+            "confidence": "proven"
+        },
+        "file:index.html->sym:index.html:.btn-secondary::Contains": {
+            "id": "file:index.html->sym:index.html:.btn-secondary::Contains",
+            "project_id": "anti",
+            "source": "file:index.html",
+            "target": "sym:index.html:.btn-secondary",
+            "edge_type": "contains",
+            "pheromone_weight": 0.5,
+            "reinforcement_count": 0,
+            "failure_count": 0,
+            "last_reinforced": "2026-09-01T11:41:44.441671566Z",
+            "confidence": "proven"
+        },
+        "file:index.html->sym:index.html:.cake-wrapper::Contains": {
+            "id": "file:index.html->sym:index.html:.cake-wrapper::Contains",
+            "project_id": "anti",
+            "source": "file:index.html",
+            "target": "sym:index.html:.cake-wrapper",
+            "edge_type": "contains",
+            "pheromone_weight": 0.5,
+            "reinforcement_count": 0,
+            "failure_count": 0,
+            "last_reinforced": "2026-09-01T11:41:44.441710826Z",
+            "confidence": "proven"
+        },
+        "file:index.html->sym:index.html:.flame::Contains": {
+            "id": "file:index.html->sym:index.html:.flame::Contains",
+            "project_id": "anti",
+            "source": "file:index.html",
+            "target": "sym:index.html:.flame",
+            "edge_type": "contains",
+            "pheromone_weight": 0.5,
+            "reinforcement_count": 0,
+            "failure_count": 0,
+            "last_reinforced": "2026-09-01T11:41:44.441754829Z",
+            "confidence": "proven"
+        },
+        "file:index.html->sym:index.html:.brand-logo::Contains": {
+            "id": "file:index.html->sym:index.html:.brand-logo::Contains",
+            "project_id": "anti",
+            "source": "file:index.html",
+            "target": "sym:index.html:.brand-logo",
+            "edge_type": "contains",
+            "pheromone_weight": 0.5,
+            "reinforcement_count": 0,
+            "failure_count": 0,
+            "last_reinforced": "2026-09-01T11:41:44.441631181Z",
+            "confidence": "proven"
+        },
+        "file:index.html->sym:index.html:.timer-box::Contains": {
+            "id": "file:index.html->sym:index.html:.timer-box::Contains",
+            "project_id": "anti",
+            "source": "file:index.html",
+            "target": "sym:index.html:.timer-box",
+            "edge_type": "contains",
+            "pheromone_weight": 0.5,
+            "reinforcement_count": 0,
+            "failure_count": 0,
+            "last_reinforced": "2026-09-01T11:41:44.441701339Z",
+            "confidence": "proven"
+        },
+        "file:index.html->sym:index.html:.poem-author::Contains": {
+            "id": "file:index.html->sym:index.html:.poem-author::Contains",
+            "project_id": "anti",
+            "source": "file:index.html",
+            "target": "sym:index.html:.poem-author",
+            "edge_type": "contains",
+            "pheromone_weight": 0.5,
+            "reinforcement_count": 0,
+            "failure_count": 0,
+            "last_reinforced": "2026-09-01T11:41:44.441770356Z",
+            "confidence": "proven"
+        },
+        "file:index.html->sym:index.html:.note-title::Contains": {
+            "id": "file:index.html->sym:index.html:.note-title::Contains",
+            "project_id": "anti",
+            "source": "file:index.html",
+            "target": "sym:index.html:.note-title",
+            "edge_type": "contains",
+            "pheromone_weight": 0.5,
+            "reinforcement_count": 0,
+            "failure_count": 0,
+            "last_reinforced": "2026-09-01T11:41:44.441779005Z",
+            "confidence": "proven"
+        },
+        "file:index.html->sym:index.html:triggerConfetti::Contains": {
+            "id": "file:index.html->sym:index.html:triggerConfetti::Contains",
+            "project_id": "anti",
+            "source": "file:index.html",
+            "target": "sym:index.html:triggerConfetti",
+            "edge_type": "contains",
+            "pheromone_weight": 0.5,
+            "reinforcement_count": 0,
+            "failure_count": 0,
+            "last_reinforced": "2026-09-01T11:41:44.441574418Z",
+            "confidence": "proven"
+        },
+        "file:index.html->sym:index.html:.icing::Contains": {
+            "id": "file:index.html->sym:index.html:.icing::Contains",
+            "project_id": "anti",
+            "source": "file:index.html",
+            "target": "sym:index.html:.icing",
+            "edge_type": "contains",
+            "pheromone_weight": 0.5,
+            "reinforcement_count": 0,
+            "failure_count": 0,
+            "last_reinforced": "2026-09-01T11:41:44.441748970Z",
+            "confidence": "proven"
+        },
+        "file:index.html->sym:index.html:scrollToElement::Contains": {
+            "id": "file:index.html->sym:index.html:scrollToElement::Contains",
+            "project_id": "anti",
+            "source": "file:index.html",
+            "target": "sym:index.html:scrollToElement",
+            "edge_type": "contains",
+            "pheromone_weight": 0.5,
+            "reinforcement_count": 0,
+            "failure_count": 0,
+            "last_reinforced": "2026-09-01T11:41:44.441586613Z",
+            "confidence": "proven"
+        },
+        "file:index.html->sym:index.html:.hero-actions::Contains": {
+            "id": "file:index.html->sym:index.html:.hero-actions::Contains",
+            "project_id": "anti",
+            "source": "file:index.html",
+            "target": "sym:index.html:.hero-actions",
+            "edge_type": "contains",
+            "pheromone_weight": 0.5,
+            "reinforcement_count": 0,
+            "failure_count": 0,
+            "last_reinforced": "2026-09-01T11:41:44.441662926Z",
+            "confidence": "proven"
+        },
+        "file:index.html->sym:index.html:#cd-days::Contains": {
+            "id": "file:index.html->sym:index.html:#cd-days::Contains",
+            "project_id": "anti",
+            "source": "file:index.html",
+            "target": "sym:index.html:#cd-days",
+            "edge_type": "contains",
+            "pheromone_weight": 0.5,
+            "reinforcement_count": 0,
+            "failure_count": 0,
+            "last_reinforced": "2026-09-01T11:41:44.441530751Z",
+            "confidence": "proven"
+        },
+        "file:index.html->sym:index.html:animateStars::Contains": {
+            "id": "file:index.html->sym:index.html:animateStars::Contains",
+            "project_id": "anti",
+            "source": "file:index.html",
+            "target": "sym:index.html:animateStars",
+            "edge_type": "contains",
+            "pheromone_weight": 0.5,
+            "reinforcement_count": 0,
+            "failure_count": 0,
+            "last_reinforced": "2026-09-01T11:41:44.441595568Z",
+            "confidence": "proven"
+        },
+        "file:index.html->sym:index.html:.btn-primary::Contains": {
+            "id": "file:index.html->sym:index.html:.btn-primary::Contains",
+            "project_id": "anti",
+            "source": "file:index.html",
+            "target": "sym:index.html:.btn-primary",
+            "edge_type": "contains",
+            "pheromone_weight": 0.5,
+            "reinforcement_count": 0,
+            "failure_count": 0,
+            "last_reinforced": "2026-09-01T11:41:44.441665358Z",
+            "confidence": "proven"
+        },
+        "file:index.html->sym:index.html:.note-icon::Contains": {
+            "id": "file:index.html->sym:index.html:.note-icon::Contains",
+            "project_id": "anti",
+            "source": "file:index.html",
+            "target": "sym:index.html:.note-icon",
+            "edge_type": "contains",
+            "pheromone_weight": 0.5,
+            "reinforcement_count": 0,
+            "failure_count": 0,
+            "last_reinforced": "2026-09-01T11:41:44.441776836Z",
+            "confidence": "proven"
+        },
+        "file:index.html->sym:index.html:.layer-middle::Contains": {
+            "id": "file:index.html->sym:index.html:.layer-middle::Contains",
+            "project_id": "anti",
+            "source": "file:index.html",
+            "target": "sym:index.html:.layer-middle",
+            "edge_type": "contains",
+            "pheromone_weight": 0.5,
+            "reinforcement_count": 0,
+            "failure_count": 0,
+            "last_reinforced": "2026-09-01T11:41:44.441742950Z",
+            "confidence": "proven"
+        },
+        "file:index.html->sym:index.html:.top-nav::Contains": {
+            "id": "file:index.html->sym:index.html:.top-nav::Contains",
+            "project_id": "anti",
+            "source": "file:index.html",
+            "target": "sym:index.html:.top-nav",
+            "edge_type": "contains",
+            "pheromone_weight": 0.5,
+            "reinforcement_count": 0,
+            "failure_count": 0,
+            "last_reinforced": "2026-09-01T11:41:44.441628407Z",
+            "confidence": "proven"
+        },
+        "file:index.html->sym:index.html:#candle-flame::Contains": {
+            "id": "file:index.html->sym:index.html:#candle-flame::Contains",
+            "project_id": "anti",
+            "source": "file:index.html",
+            "target": "sym:index.html:#candle-flame",
+            "edge_type": "contains",
+            "pheromone_weight": 0.5,
+            "reinforcement_count": 0,
+            "failure_count": 0,
+            "last_reinforced": "2026-09-01T11:41:44.441551424Z",
+            "confidence": "proven"
+        },
+        "file:index.html->sym:index.html:#countdown-counter::Contains": {
+            "id": "file:index.html->sym:index.html:#countdown-counter::Contains",
+            "project_id": "anti",
+            "source": "file:index.html",
+            "target": "sym:index.html:#countdown-counter",
+            "edge_type": "contains",
+            "pheromone_weight": 0.5,
+            "reinforcement_count": 0,
+            "failure_count": 0,
+            "last_reinforced": "2026-09-01T11:41:44.441525692Z",
+            "confidence": "proven"
+        },
+        "file:index.html->sym:index.html:.orb-2::Contains": {
+            "id": "file:index.html->sym:index.html:.orb-2::Contains",
+            "project_id": "anti",
+            "source": "file:index.html",
+            "target": "sym:index.html:.orb-2",
+            "edge_type": "contains",
+            "pheromone_weight": 0.5,
+            "reinforcement_count": 0,
+            "failure_count": 0,
+            "last_reinforced": "2026-09-01T11:41:44.441604877Z",
+            "confidence": "proven"
+        },
+        "file:index.html->sym:index.html:.section-title::Contains": {
+            "id": "file:index.html->sym:index.html:.section-title::Contains",
+            "project_id": "anti",
+            "source": "file:index.html",
+            "target": "sym:index.html:.section-title",
+            "edge_type": "contains",
+            "pheromone_weight": 0.5,
+            "reinforcement_count": 0,
+            "failure_count": 0,
+            "last_reinforced": "2026-09-01T11:41:44.441686090Z",
+            "confidence": "proven"
+        }
+    },
+    "outgoing": {
+        "file:index.html": [
+            "file:index.html->sym:index.html:#music-toggle::Contains",
+            "file:index.html->sym:index.html:#age-counter::Contains",
+            "file:index.html->sym:index.html:#age-years::Contains",
+            "file:index.html->sym:index.html:#age-days::Contains",
+            "file:index.html->sym:index.html:#age-hours::Contains",
+            "file:index.html->sym:index.html:#age-secs::Contains",
+            "file:index.html->sym:index.html:#countdown-counter::Contains",
+            "file:index.html->sym:index.html:#cd-days::Contains",
+            "file:index.html->sym:index.html:#cd-hours::Contains",
+            "file:index.html->sym:index.html:#cd-mins::Contains",
+            "file:index.html->sym:index.html:#cd-secs::Contains",
+            "file:index.html->sym:index.html:#cake-section::Contains",
+            "file:index.html->sym:index.html:#candle-flame::Contains",
+            "file:index.html->sym:index.html:#surprise-text::Contains",
+            "file:index.html->sym:index.html:updateAgeCounter::Contains",
+            "file:index.html->sym:index.html:updateBirthdayCountdown::Contains",
+            "file:index.html->sym:index.html:triggerConfetti::Contains",
+            "file:index.html->sym:index.html:blowCandle::Contains",
+            "file:index.html->sym:index.html:revealSurprise::Contains",
+            "file:index.html->sym:index.html:scrollToElement::Contains",
+            "file:index.html->sym:index.html:toggleAudio::Contains",
+            "file:index.html->sym:index.html:initStars::Contains",
+            "file:index.html->sym:index.html:animateStars::Contains",
+            "file:index.html->sym:index.html:.orb::Contains",
+            "file:index.html->sym:index.html:.orb-1::Contains",
+            "file:index.html->sym:index.html:.orb-2::Contains",
+            "file:index.html->sym:index.html:.orb-3::Contains",
+            "file:index.html->sym:index.html:.app-container::Contains",
+            "file:index.html->sym:index.html:.glass-card::Contains",
+            "file:index.html->sym:index.html:.top-nav::Contains",
+            "file:index.html->sym:index.html:.brand-logo::Contains",
+            "file:index.html->sym:index.html:.music-btn::Contains",
+            "file:index.html->sym:index.html:.hero::Contains",
+            "file:index.html->sym:index.html:.hero::Contains",
+            "file:index.html->sym:index.html:.hero-badge::Contains",
+            "file:index.html->sym:index.html:.hero-title::Contains",
+            "file:index.html->sym:index.html:.hero-subtitle::Contains",
+            "file:index.html->sym:index.html:.hero-details-pill::Contains",
+            "file:index.html->sym:index.html:.hero-details-pill::Contains",
+            "file:index.html->sym:index.html:.pill-item::Contains",
+            "file:index.html->sym:index.html:.hero-actions::Contains",
+            "file:index.html->sym:index.html:.hero-actions::Contains",
+            "file:index.html->sym:index.html:.btn-primary::Contains",
+            "file:index.html->sym:index.html:.btn-secondary::Contains",
+            "file:index.html->sym:index.html:.hero-img-box::Contains",
+            "file:index.html->sym:index.html:.hero-img-overlay::Contains",
+            "file:index.html->sym:index.html:.section-header::Contains",
+            "file:index.html->sym:index.html:.section-subtitle::Contains",
+            "file:index.html->sym:index.html:.section-title::Contains",
+            "file:index.html->sym:index.html:.grid-2::Contains",
+            "file:index.html->sym:index.html:.grid-2::Contains",
+            "file:index.html->sym:index.html:.counter-card::Contains",
+            "file:index.html->sym:index.html:.counter-title::Contains",
+            "file:index.html->sym:index.html:.counter-timer::Contains",
+            "file:index.html->sym:index.html:.timer-box::Contains",
+            "file:index.html->sym:index.html:.timer-val::Contains",
+            "file:index.html->sym:index.html:.timer-lbl::Contains",
+            "file:index.html->sym:index.html:.cake-section::Contains",
+            "file:index.html->sym:index.html:.cake-wrapper::Contains",
+            "file:index.html->sym:index.html:.cake::Contains",
+            "file:index.html->sym:index.html:.plate::Contains",
+            "file:index.html->sym:index.html:.layer-bottom::Contains",
+            "file:index.html->sym:index.html:.layer-middle::Contains",
+            "file:index.html->sym:index.html:.layer-top::Contains",
+            "file:index.html->sym:index.html:.icing::Contains",
+            "file:index.html->sym:index.html:.candle::Contains",
+            "file:index.html->sym:index.html:.flame::Contains",
+            "file:index.html->sym:index.html:.wish-msg::Contains",
+            "file:index.html->sym:index.html:.poetry-section::Contains",
+            "file:index.html->sym:index.html:.poem-card::Contains",
+            "file:index.html->sym:index.html:.poem-quote-icon::Contains",
+            "file:index.html->sym:index.html:.poem-verses::Contains",
+            "file:index.html->sym:index.html:.poem-author::Contains",
+            "file:index.html->sym:index.html:.notes-grid::Contains",
+            "file:index.html->sym:index.html:.note-card::Contains",
+            "file:index.html->sym:index.html:.note-icon::Contains",
+            "file:index.html->sym:index.html:.note-title::Contains",
+            "file:index.html->sym:index.html:.note-body::Contains",
+            "file:index.html->sym:index.html:.surprise-box::Contains"
+        ]
+    },
+    "incoming": {
+        "sym:index.html:#age-secs": [
+            "file:index.html->sym:index.html:#age-secs::Contains"
+        ],
+        "sym:index.html:.note-card": [
+            "file:index.html->sym:index.html:.note-card::Contains"
+        ],
+        "sym:index.html:.poetry-section": [
+            "file:index.html->sym:index.html:.poetry-section::Contains"
+        ],
+        "sym:index.html:.cake-wrapper": [
+            "file:index.html->sym:index.html:.cake-wrapper::Contains"
+        ],
+        "sym:index.html:.timer-val": [
+            "file:index.html->sym:index.html:.timer-val::Contains"
+        ],
+        "sym:index.html:.orb-2": [
+            "file:index.html->sym:index.html:.orb-2::Contains"
+        ],
+        "sym:index.html:.timer-lbl": [
+            "file:index.html->sym:index.html:.timer-lbl::Contains"
+        ],
+        "sym:index.html:.layer-middle": [
+            "file:index.html->sym:index.html:.layer-middle::Contains"
+        ],
+        "sym:index.html:#cd-hours": [
+            "file:index.html->sym:index.html:#cd-hours::Contains"
+        ],
+        "sym:index.html:toggleAudio": [
+            "file:index.html->sym:index.html:toggleAudio::Contains"
+        ],
+        "sym:index.html:.note-icon": [
+            "file:index.html->sym:index.html:.note-icon::Contains"
+        ],
+        "sym:index.html:.note-body": [
+            "file:index.html->sym:index.html:.note-body::Contains"
+        ],
+        "sym:index.html:.counter-title": [
+            "file:index.html->sym:index.html:.counter-title::Contains"
+        ],
+        "sym:index.html:.poem-verses": [
+            "file:index.html->sym:index.html:.poem-verses::Contains"
+        ],
+        "sym:index.html:.orb-3": [
+            "file:index.html->sym:index.html:.orb-3::Contains"
+        ],
+        "sym:index.html:.music-btn": [
+            "file:index.html->sym:index.html:.music-btn::Contains"
+        ],
+        "sym:index.html:.hero-img-box": [
+            "file:index.html->sym:index.html:.hero-img-box::Contains"
+        ],
+        "sym:index.html:#music-toggle": [
+            "file:index.html->sym:index.html:#music-toggle::Contains"
+        ],
+        "sym:index.html:.brand-logo": [
+            "file:index.html->sym:index.html:.brand-logo::Contains"
+        ],
+        "sym:index.html:.counter-card": [
+            "file:index.html->sym:index.html:.counter-card::Contains"
+        ],
+        "sym:index.html:.section-header": [
+            "file:index.html->sym:index.html:.section-header::Contains"
+        ],
+        "sym:index.html:.cake": [
+            "file:index.html->sym:index.html:.cake::Contains"
+        ],
+        "sym:index.html:.layer-bottom": [
+            "file:index.html->sym:index.html:.layer-bottom::Contains"
+        ],
+        "sym:index.html:.icing": [
+            "file:index.html->sym:index.html:.icing::Contains"
+        ],
+        "sym:index.html:.wish-msg": [
+            "file:index.html->sym:index.html:.wish-msg::Contains"
+        ],
+        "sym:index.html:#cd-days": [
+            "file:index.html->sym:index.html:#cd-days::Contains"
+        ],
+        "sym:index.html:.timer-box": [
+            "file:index.html->sym:index.html:.timer-box::Contains"
+        ],
+        "sym:index.html:.surprise-box": [
+            "file:index.html->sym:index.html:.surprise-box::Contains"
+        ],
+        "sym:index.html:.orb-1": [
+            "file:index.html->sym:index.html:.orb-1::Contains"
+        ],
+        "sym:index.html:scrollToElement": [
+            "file:index.html->sym:index.html:scrollToElement::Contains"
+        ],
+        "sym:index.html:#surprise-text": [
+            "file:index.html->sym:index.html:#surprise-text::Contains"
+        ],
+        "sym:index.html:.flame": [
+            "file:index.html->sym:index.html:.flame::Contains"
+        ],
+        "sym:index.html:.app-container": [
+            "file:index.html->sym:index.html:.app-container::Contains"
+        ],
+        "sym:index.html:.notes-grid": [
+            "file:index.html->sym:index.html:.notes-grid::Contains"
+        ],
+        "sym:index.html:.candle": [
+            "file:index.html->sym:index.html:.candle::Contains"
+        ],
+        "sym:index.html:#age-hours": [
+            "file:index.html->sym:index.html:#age-hours::Contains"
+        ],
+        "sym:index.html:.counter-timer": [
+            "file:index.html->sym:index.html:.counter-timer::Contains"
+        ],
+        "sym:index.html:.note-title": [
+            "file:index.html->sym:index.html:.note-title::Contains"
+        ],
+        "sym:index.html:.hero-details-pill": [
+            "file:index.html->sym:index.html:.hero-details-pill::Contains",
+            "file:index.html->sym:index.html:.hero-details-pill::Contains"
+        ],
+        "sym:index.html:#cd-mins": [
+            "file:index.html->sym:index.html:#cd-mins::Contains"
+        ],
+        "sym:index.html:updateAgeCounter": [
+            "file:index.html->sym:index.html:updateAgeCounter::Contains"
+        ],
+        "sym:index.html:.layer-top": [
+            "file:index.html->sym:index.html:.layer-top::Contains"
+        ],
+        "sym:index.html:updateBirthdayCountdown": [
+            "file:index.html->sym:index.html:updateBirthdayCountdown::Contains"
+        ],
+        "sym:index.html:blowCandle": [
+            "file:index.html->sym:index.html:blowCandle::Contains"
+        ],
+        "sym:index.html:revealSurprise": [
+            "file:index.html->sym:index.html:revealSurprise::Contains"
+        ],
+        "sym:index.html:#cd-secs": [
+            "file:index.html->sym:index.html:#cd-secs::Contains"
+        ],
+        "sym:index.html:.grid-2": [
+            "file:index.html->sym:index.html:.grid-2::Contains",
+            "file:index.html->sym:index.html:.grid-2::Contains"
+        ],
+        "sym:index.html:.cake-section": [
+            "file:index.html->sym:index.html:.cake-section::Contains"
+        ],
+        "sym:index.html:#age-years": [
+            "file:index.html->sym:index.html:#age-years::Contains"
+        ],
+        "sym:index.html:.top-nav": [
+            "file:index.html->sym:index.html:.top-nav::Contains"
+        ],
+        "sym:index.html:.hero-subtitle": [
+            "file:index.html->sym:index.html:.hero-subtitle::Contains"
+        ],
+        "sym:index.html:triggerConfetti": [
+            "file:index.html->sym:index.html:triggerConfetti::Contains"
+        ],
+        "sym:index.html:.orb": [
+            "file:index.html->sym:index.html:.orb::Contains"
+        ],
+        "sym:index.html:animateStars": [
+            "file:index.html->sym:index.html:animateStars::Contains"
+        ],
+        "sym:index.html:.hero-actions": [
+            "file:index.html->sym:index.html:.hero-actions::Contains",
+            "file:index.html->sym:index.html:.hero-actions::Contains"
+        ],
+        "sym:index.html:.section-subtitle": [
+            "file:index.html->sym:index.html:.section-subtitle::Contains"
+        ],
+        "sym:index.html:initStars": [
+            "file:index.html->sym:index.html:initStars::Contains"
+        ],
+        "sym:index.html:.poem-author": [
+            "file:index.html->sym:index.html:.poem-author::Contains"
+        ],
+        "sym:index.html:.btn-primary": [
+            "file:index.html->sym:index.html:.btn-primary::Contains"
+        ],
+        "sym:index.html:.hero-img-overlay": [
+            "file:index.html->sym:index.html:.hero-img-overlay::Contains"
+        ],
+        "sym:index.html:#countdown-counter": [
+            "file:index.html->sym:index.html:#countdown-counter::Contains"
+        ],
+        "sym:index.html:#age-counter": [
+            "file:index.html->sym:index.html:#age-counter::Contains"
+        ],
+        "sym:index.html:.hero-title": [
+            "file:index.html->sym:index.html:.hero-title::Contains"
+        ],
+        "sym:index.html:.poem-quote-icon": [
+            "file:index.html->sym:index.html:.poem-quote-icon::Contains"
+        ],
+        "sym:index.html:.pill-item": [
+            "file:index.html->sym:index.html:.pill-item::Contains"
+        ],
+        "sym:index.html:#candle-flame": [
+            "file:index.html->sym:index.html:#candle-flame::Contains"
+        ],
+        "sym:index.html:#cake-section": [
+            "file:index.html->sym:index.html:#cake-section::Contains"
+        ],
+        "sym:index.html:.glass-card": [
+            "file:index.html->sym:index.html:.glass-card::Contains"
+        ],
+        "sym:index.html:.plate": [
+            "file:index.html->sym:index.html:.plate::Contains"
+        ],
+        "sym:index.html:#age-days": [
+            "file:index.html->sym:index.html:#age-days::Contains"
+        ],
+        "sym:index.html:.section-title": [
+            "file:index.html->sym:index.html:.section-title::Contains"
+        ],
+        "sym:index.html:.btn-secondary": [
+            "file:index.html->sym:index.html:.btn-secondary::Contains"
+        ],
+        "sym:index.html:.hero": [
+            "file:index.html->sym:index.html:.hero::Contains",
+            "file:index.html->sym:index.html:.hero::Contains"
+        ],
+        "sym:index.html:.poem-card": [
+            "file:index.html->sym:index.html:.poem-card::Contains"
+        ],
+        "sym:index.html:.hero-badge": [
+            "file:index.html->sym:index.html:.hero-badge::Contains"
+        ]
+    },
+    "name_to_nodes": {
+        ".note-card": [
+            "sym:index.html:.note-card"
+        ],
+        ".section-header": [
+            "sym:index.html:.section-header"
+        ],
+        ".timer-box": [
+            "sym:index.html:.timer-box"
+        ],
+        ".top-nav": [
+            "sym:index.html:.top-nav"
+        ],
+        ".poem-verses": [
+            "sym:index.html:.poem-verses"
+        ],
+        ".timer-val": [
+            "sym:index.html:.timer-val"
+        ],
+        ".poetry-section": [
+            "sym:index.html:.poetry-section"
+        ],
+        "triggerconfetti": [
+            "sym:index.html:triggerConfetti"
+        ],
+        ".orb-3": [
+            "sym:index.html:.orb-3"
+        ],
+        ".orb-1": [
+            "sym:index.html:.orb-1"
+        ],
+        "#cd-mins": [
+            "sym:index.html:#cd-mins"
+        ],
+        "index.html": [
+            "file:index.html"
+        ],
+        ".counter-card": [
+            "sym:index.html:.counter-card"
+        ],
+        "revealsurprise": [
+            "sym:index.html:revealSurprise"
+        ],
+        "#age-secs": [
+            "sym:index.html:#age-secs"
+        ],
+        "#countdown-counter": [
+            "sym:index.html:#countdown-counter"
+        ],
+        "#age-days": [
+            "sym:index.html:#age-days"
+        ],
+        ".orb-2": [
+            "sym:index.html:.orb-2"
+        ],
+        ".icing": [
+            "sym:index.html:.icing"
+        ],
+        ".layer-bottom": [
+            "sym:index.html:.layer-bottom"
+        ],
+        ".layer-middle": [
+            "sym:index.html:.layer-middle"
+        ],
+        ".orb": [
+            "sym:index.html:.orb"
+        ],
+        ".cake-section": [
+            "sym:index.html:.cake-section"
+        ],
+        "#cd-secs": [
+            "sym:index.html:#cd-secs"
+        ],
+        "scrolltoelement": [
+            "sym:index.html:scrollToElement"
+        ],
+        ".hero-img-box": [
+            "sym:index.html:.hero-img-box"
+        ],
+        "animatestars": [
+            "sym:index.html:animateStars"
+        ],
+        "#cd-hours": [
+            "sym:index.html:#cd-hours"
+        ],
+        ".app-container": [
+            "sym:index.html:.app-container"
+        ],
+        ".note-title": [
+            "sym:index.html:.note-title"
+        ],
+        ".note-icon": [
+            "sym:index.html:.note-icon"
+        ],
+        "toggleaudio": [
+            "sym:index.html:toggleAudio"
+        ],
+        ".music-btn": [
+            "sym:index.html:.music-btn"
+        ],
+        ".surprise-box": [
+            "sym:index.html:.surprise-box"
+        ],
+        ".hero-details-pill": [
+            "sym:index.html:.hero-details-pill",
+            "sym:index.html:.hero-details-pill"
+        ],
+        ".plate": [
+            "sym:index.html:.plate"
+        ],
+        ".poem-author": [
+            "sym:index.html:.poem-author"
+        ],
+        ".section-title": [
+            "sym:index.html:.section-title"
+        ],
+        ".candle": [
+            "sym:index.html:.candle"
+        ],
+        ".cake": [
+            "sym:index.html:.cake"
+        ],
+        "#cake-section": [
+            "sym:index.html:#cake-section"
+        ],
+        "#age-hours": [
+            "sym:index.html:#age-hours"
+        ],
+        ".wish-msg": [
+            "sym:index.html:.wish-msg"
+        ],
+        ".hero-subtitle": [
+            "sym:index.html:.hero-subtitle"
+        ],
+        ".cake-wrapper": [
+            "sym:index.html:.cake-wrapper"
+        ],
+        ".flame": [
+            "sym:index.html:.flame"
+        ],
+        ".btn-primary": [
+            "sym:index.html:.btn-primary"
+        ],
+        ".hero-img-overlay": [
+            "sym:index.html:.hero-img-overlay"
+        ],
+        ".glass-card": [
+            "sym:index.html:.glass-card"
+        ],
+        "#surprise-text": [
+            "sym:index.html:#surprise-text"
+        ],
+        ".poem-card": [
+            "sym:index.html:.poem-card"
+        ],
+        ".counter-title": [
+            "sym:index.html:.counter-title"
+        ],
+        ".btn-secondary": [
+            "sym:index.html:.btn-secondary"
+        ],
+        "#age-years": [
+            "sym:index.html:#age-years"
+        ],
+        ".note-body": [
+            "sym:index.html:.note-body"
+        ],
+        ".layer-top": [
+            "sym:index.html:.layer-top"
+        ],
+        ".brand-logo": [
+            "sym:index.html:.brand-logo"
+        ],
+        ".notes-grid": [
+            "sym:index.html:.notes-grid"
+        ],
+        "updatebirthdaycountdown": [
+            "sym:index.html:updateBirthdayCountdown"
+        ],
+        ".hero-actions": [
+            "sym:index.html:.hero-actions",
+            "sym:index.html:.hero-actions"
+        ],
+        "#music-toggle": [
+            "sym:index.html:#music-toggle"
+        ],
+        "updateagecounter": [
+            "sym:index.html:updateAgeCounter"
+        ],
+        "#age-counter": [
+            "sym:index.html:#age-counter"
+        ],
+        ".hero-title": [
+            "sym:index.html:.hero-title"
+        ],
+        ".hero": [
+            "sym:index.html:.hero",
+            "sym:index.html:.hero"
+        ],
+        "#candle-flame": [
+            "sym:index.html:#candle-flame"
+        ],
+        ".counter-timer": [
+            "sym:index.html:.counter-timer"
+        ],
+        ".pill-item": [
+            "sym:index.html:.pill-item"
+        ],
+        "blowcandle": [
+            "sym:index.html:blowCandle"
+        ],
+        ".section-subtitle": [
+            "sym:index.html:.section-subtitle"
+        ],
+        ".hero-badge": [
+            "sym:index.html:.hero-badge"
+        ],
+        ".poem-quote-icon": [
+            "sym:index.html:.poem-quote-icon"
+        ],
+        "#cd-days": [
+            "sym:index.html:#cd-days"
+        ],
+        ".timer-lbl": [
+            "sym:index.html:.timer-lbl"
+        ],
+        ".grid-2": [
+            "sym:index.html:.grid-2",
+            "sym:index.html:.grid-2"
+        ],
+        "initstars": [
+            "sym:index.html:initStars"
+        ]
+    },
+    "file_to_nodes": {
+        "index.html": [
+            "file:index.html",
+            "sym:index.html:#music-toggle",
+            "sym:index.html:#age-counter",
+            "sym:index.html:#age-years",
+            "sym:index.html:#age-days",
+            "sym:index.html:#age-hours",
+            "sym:index.html:#age-secs",
+            "sym:index.html:#countdown-counter",
+            "sym:index.html:#cd-days",
+            "sym:index.html:#cd-hours",
+            "sym:index.html:#cd-mins",
+            "sym:index.html:#cd-secs",
+            "sym:index.html:#cake-section",
+            "sym:index.html:#candle-flame",
+            "sym:index.html:#surprise-text",
+            "sym:index.html:updateAgeCounter",
+            "sym:index.html:updateBirthdayCountdown",
+            "sym:index.html:triggerConfetti",
+            "sym:index.html:blowCandle",
+            "sym:index.html:revealSurprise",
+            "sym:index.html:scrollToElement",
+            "sym:index.html:toggleAudio",
+            "sym:index.html:initStars",
+            "sym:index.html:animateStars",
+            "sym:index.html:.orb",
+            "sym:index.html:.orb-1",
+            "sym:index.html:.orb-2",
+            "sym:index.html:.orb-3",
+            "sym:index.html:.app-container",
+            "sym:index.html:.glass-card",
+            "sym:index.html:.top-nav",
+            "sym:index.html:.brand-logo",
+            "sym:index.html:.music-btn",
+            "sym:index.html:.hero",
+            "sym:index.html:.hero",
+            "sym:index.html:.hero-badge",
+            "sym:index.html:.hero-title",
+            "sym:index.html:.hero-subtitle",
+            "sym:index.html:.hero-details-pill",
+            "sym:index.html:.hero-details-pill",
+            "sym:index.html:.pill-item",
+            "sym:index.html:.hero-actions",
+            "sym:index.html:.hero-actions",
+            "sym:index.html:.btn-primary",
+            "sym:index.html:.btn-secondary",
+            "sym:index.html:.hero-img-box",
+            "sym:index.html:.hero-img-overlay",
+            "sym:index.html:.section-header",
+            "sym:index.html:.section-subtitle",
+            "sym:index.html:.section-title",
+            "sym:index.html:.grid-2",
+            "sym:index.html:.grid-2",
+            "sym:index.html:.counter-card",
+            "sym:index.html:.counter-title",
+            "sym:index.html:.counter-timer",
+            "sym:index.html:.timer-box",
+            "sym:index.html:.timer-val",
+            "sym:index.html:.timer-lbl",
+            "sym:index.html:.cake-section",
+            "sym:index.html:.cake-wrapper",
+            "sym:index.html:.cake",
+            "sym:index.html:.plate",
+            "sym:index.html:.layer-bottom",
+            "sym:index.html:.layer-middle",
+            "sym:index.html:.layer-top",
+            "sym:index.html:.icing",
+            "sym:index.html:.candle",
+            "sym:index.html:.flame",
+            "sym:index.html:.wish-msg",
+            "sym:index.html:.poetry-section",
+            "sym:index.html:.poem-card",
+            "sym:index.html:.poem-quote-icon",
+            "sym:index.html:.poem-verses",
+            "sym:index.html:.poem-author",
+            "sym:index.html:.notes-grid",
+            "sym:index.html:.note-card",
+            "sym:index.html:.note-icon",
+            "sym:index.html:.note-title",
+            "sym:index.html:.note-body",
+            "sym:index.html:.surprise-box"
+        ]
+    },
+    "token_to_nodes": {
+        "note": [
+            "sym:index.html:.note-card",
+            "sym:index.html:.note-icon",
+            "sym:index.html:.note-title",
+            "sym:index.html:.note-body"
+        ],
+        "countdown": [
+            "sym:index.html:updateBirthdayCountdown"
+        ],
+        "to": [
+            "sym:index.html:scrollToElement"
+        ],
+        "app": [
+            "sym:index.html:.app-container"
+        ],
+        "age": [
+            "sym:index.html:updateAgeCounter"
+        ],
+        "notes": [
+            "sym:index.html:.notes-grid"
+        ],
+        "scroll": [
+            "sym:index.html:scrollToElement"
+        ],
+        "orb": [
+            "sym:index.html:.orb",
+            "sym:index.html:.orb-1",
+            "sym:index.html:.orb-2",
+            "sym:index.html:.orb-3"
+        ],
+        "surprise": [
+            "sym:index.html:revealSurprise",
+            "sym:index.html:.surprise-box"
+        ],
+        "details": [
+            "sym:index.html:.hero-details-pill"
+        ],
+        "birthday": [
+            "sym:index.html:updateBirthdayCountdown"
+        ],
+        "card": [
+            "sym:index.html:.glass-card",
+            "sym:index.html:.counter-card",
+            "sym:index.html:.poem-card",
+            "sym:index.html:.note-card"
+        ],
+        "cake": [
+            "sym:index.html:.cake-section",
+            "sym:index.html:.cake-wrapper",
+            "sym:index.html:.cake"
+        ],
+        "years": [
+            "sym:index.html:#age-years"
+        ],
+        "glass": [
+            "sym:index.html:.glass-card"
+        ],
+        "confetti": [
+            "sym:index.html:triggerConfetti"
+        ],
+        "secs": [
+            "sym:index.html:#age-secs",
+            "sym:index.html:#cd-secs"
+        ],
+        "icing": [
+            "sym:index.html:.icing"
+        ],
+        "logo": [
+            "sym:index.html:.brand-logo"
+        ],
+        "poem": [
+            "sym:index.html:.poem-card",
+            "sym:index.html:.poem-quote-icon",
+            "sym:index.html:.poem-verses",
+            "sym:index.html:.poem-author"
+        ],
+        "title": [
+            "sym:index.html:.hero-title",
+            "sym:index.html:.section-title",
+            "sym:index.html:.counter-title",
+            "sym:index.html:.note-title"
+        ],
+        "mins": [
+            "sym:index.html:#cd-mins"
+        ],
+        "item": [
+            "sym:index.html:.pill-item"
+        ],
+        "index": [
+            "file:index.html"
+        ],
+        "verses": [
+            "sym:index.html:.poem-verses"
+        ],
+        "plate": [
+            "sym:index.html:.plate"
+        ],
+        "element": [
+            "sym:index.html:scrollToElement"
+        ],
+        "days": [
+            "sym:index.html:#age-days",
+            "sym:index.html:#cd-days"
+        ],
+        "wrapper": [
+            "sym:index.html:.cake-wrapper"
+        ],
+        "wish": [
+            "sym:index.html:.wish-msg"
+        ],
+        "top": [
+            "sym:index.html:.top-nav",
+            "sym:index.html:.layer-top"
+        ],
+        "nav": [
+            "sym:index.html:.top-nav"
+        ],
+        "flame": [
+            "sym:index.html:#candle-flame",
+            "sym:index.html:.flame"
+        ],
+        "overlay": [
+            "sym:index.html:.hero-img-overlay"
+        ],
+        "subtitle": [
+            "sym:index.html:.hero-subtitle",
+            "sym:index.html:.section-subtitle"
+        ],
+        "music": [
+            "sym:index.html:.music-btn"
+        ],
+        "body": [
+            "sym:index.html:.note-body"
+        ],
+        "lbl": [
+            "sym:index.html:.timer-lbl"
+        ],
+        "quote": [
+            "sym:index.html:.poem-quote-icon"
+        ],
+        "trigger": [
+            "sym:index.html:triggerConfetti"
+        ],
+        "hero": [
+            "sym:index.html:.hero",
+            "sym:index.html:.hero-badge",
+            "sym:index.html:.hero-title",
+            "sym:index.html:.hero-subtitle",
+            "sym:index.html:.hero-details-pill",
+            "sym:index.html:.hero-actions",
+            "sym:index.html:.hero-img-box",
+            "sym:index.html:.hero-img-overlay"
+        ],
+        "blow": [
+            "sym:index.html:blowCandle"
+        ],
+        "author": [
+            "sym:index.html:.poem-author"
+        ],
+        "#age": [
+            "sym:index.html:#age-counter",
+            "sym:index.html:#age-years",
+            "sym:index.html:#age-days",
+            "sym:index.html:#age-hours",
+            "sym:index.html:#age-secs"
+        ],
+        "#cd": [
+            "sym:index.html:#cd-days",
+            "sym:index.html:#cd-hours",
+            "sym:index.html:#cd-mins",
+            "sym:index.html:#cd-secs"
+        ],
+        "html": [
+            "file:index.html"
+        ],
+        "container": [
+            "sym:index.html:.app-container"
+        ],
+        "layer": [
+            "sym:index.html:.layer-bottom",
+            "sym:index.html:.layer-middle",
+            "sym:index.html:.layer-top"
+        ],
+        "grid": [
+            "sym:index.html:.grid-2",
+            "sym:index.html:.notes-grid"
+        ],
+        "val": [
+            "sym:index.html:.timer-val"
+        ],
+        "#candle": [
+            "sym:index.html:#candle-flame"
+        ],
+        "update": [
+            "sym:index.html:updateAgeCounter",
+            "sym:index.html:updateBirthdayCountdown"
+        ],
+        "counter": [
+            "sym:index.html:#age-counter",
+            "sym:index.html:#countdown-counter",
+            "sym:index.html:updateAgeCounter",
+            "sym:index.html:.counter-card",
+            "sym:index.html:.counter-title",
+            "sym:index.html:.counter-timer"
+        ],
+        "secondary": [
+            "sym:index.html:.btn-secondary"
+        ],
+        "text": [
+            "sym:index.html:#surprise-text"
+        ],
+        "stars": [
+            "sym:index.html:initStars",
+            "sym:index.html:animateStars"
+        ],
+        "#music": [
+            "sym:index.html:#music-toggle"
+        ],
+        "toggle": [
+            "sym:index.html:#music-toggle",
+            "sym:index.html:toggleAudio"
+        ],
+        "animate": [
+            "sym:index.html:animateStars"
+        ],
+        "candle": [
+            "sym:index.html:blowCandle",
+            "sym:index.html:.candle"
+        ],
+        "pill": [
+            "sym:index.html:.hero-details-pill",
+            "sym:index.html:.pill-item"
+        ],
+        "icon": [
+            "sym:index.html:.poem-quote-icon",
+            "sym:index.html:.note-icon"
+        ],
+        "#surprise": [
+            "sym:index.html:#surprise-text"
+        ],
+        "audio": [
+            "sym:index.html:toggleAudio"
+        ],
+        "badge": [
+            "sym:index.html:.hero-badge"
+        ],
+        "#cake": [
+            "sym:index.html:#cake-section"
+        ],
+        "bottom": [
+            "sym:index.html:.layer-bottom"
+        ],
+        "timer": [
+            "sym:index.html:.counter-timer",
+            "sym:index.html:.timer-box",
+            "sym:index.html:.timer-val",
+            "sym:index.html:.timer-lbl"
+        ],
+        "msg": [
+            "sym:index.html:.wish-msg"
+        ],
+        "img": [
+            "sym:index.html:.hero-img-box",
+            "sym:index.html:.hero-img-overlay"
+        ],
+        "middle": [
+            "sym:index.html:.layer-middle"
+        ],
+        "#countdown": [
+            "sym:index.html:#countdown-counter"
+        ],
+        "header": [
+            "sym:index.html:.section-header"
+        ],
+        "poetry": [
+            "sym:index.html:.poetry-section"
+        ],
+        "btn": [
+            "sym:index.html:.music-btn",
+            "sym:index.html:.btn-primary",
+            "sym:index.html:.btn-secondary"
+        ],
+        "init": [
+            "sym:index.html:initStars"
+        ],
+        "reveal": [
+            "sym:index.html:revealSurprise"
+        ],
+        "primary": [
+            "sym:index.html:.btn-primary"
+        ],
+        "section": [
+            "sym:index.html:#cake-section",
+            "sym:index.html:.section-header",
+            "sym:index.html:.section-subtitle",
+            "sym:index.html:.section-title",
+            "sym:index.html:.cake-section",
+            "sym:index.html:.poetry-section"
+        ],
+        "hours": [
+            "sym:index.html:#age-hours",
+            "sym:index.html:#cd-hours"
+        ],
+        "actions": [
+            "sym:index.html:.hero-actions"
+        ],
+        "brand": [
+            "sym:index.html:.brand-logo"
+        ],
+        "box": [
+            "sym:index.html:.hero-img-box",
+            "sym:index.html:.timer-box",
+            "sym:index.html:.surprise-box"
+        ]
+    },
+    "pending": [],
+    "unresolved": [],
+    "impl_index": {},
+    "export_index": {
+        "animatestars": [
+            "sym:index.html:animateStars"
+        ],
+        "initstars": [
+            "sym:index.html:initStars"
+        ],
+        "#cd-hours": [
+            "sym:index.html:#cd-hours"
+        ],
+        "#cd-mins": [
+            "sym:index.html:#cd-mins"
+        ],
+        "revealsurprise": [
+            "sym:index.html:revealSurprise"
+        ],
+        "toggleaudio": [
+            "sym:index.html:toggleAudio"
+        ],
+        "#surprise-text": [
+            "sym:index.html:#surprise-text"
+        ],
+        "#cd-days": [
+            "sym:index.html:#cd-days"
+        ],
+        "#age-days": [
+            "sym:index.html:#age-days"
+        ],
+        "#countdown-counter": [
+            "sym:index.html:#countdown-counter"
+        ],
+        "updatebirthdaycountdown": [
+            "sym:index.html:updateBirthdayCountdown"
+        ],
+        "blowcandle": [
+            "sym:index.html:blowCandle"
+        ],
+        "#candle-flame": [
+            "sym:index.html:#candle-flame"
+        ],
+        "scrolltoelement": [
+            "sym:index.html:scrollToElement"
+        ],
+        "updateagecounter": [
+            "sym:index.html:updateAgeCounter"
+        ],
+        "#age-counter": [
+            "sym:index.html:#age-counter"
+        ],
+        "#age-hours": [
+            "sym:index.html:#age-hours"
+        ],
+        "#age-secs": [
+            "sym:index.html:#age-secs"
+        ],
+        "#cake-section": [
+            "sym:index.html:#cake-section"
+        ],
+        "#age-years": [
+            "sym:index.html:#age-years"
+        ],
+        "#music-toggle": [
+            "sym:index.html:#music-toggle"
+        ],
+        "#cd-secs": [
+            "sym:index.html:#cd-secs"
+        ],
+        "triggerconfetti": [
+            "sym:index.html:triggerConfetti"
+        ]
+    },
+    "file_hashes": {
+        "index.html": "cdfd5b0a23913651f7028c875acef3d0bc174ca4a788c36b85e16864cc5b52f8"
+    },
+    "generation": 3,
+    "indexed_at": "2026-09-01T11:41:51.833916060Z",
+    "stale_files": []
+}
